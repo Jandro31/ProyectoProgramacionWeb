@@ -1,0 +1,146 @@
+/**
+ * @file configurador.css
+ * @description Estilos para el Aporte Novedoso del Grupo:
+ * "Crea tu Caja de Chocolates Personalizada" (Configurador Interactivo 3D/2D).
+ * Permite alternar entre vista 3D isométrica con perspectiva CSS3 y vista 2D cenital.
+ */
+
+.box-stage-container {
+  perspective: 1100px;
+  padding: 2rem 1rem;
+  background: radial-gradient(circle at center, #4A2E28 0%, #22120F 100%);
+  border-radius: 18px;
+  border: 2px solid #D4AF37;
+  box-shadow: inset 0 0 40px rgba(0, 0, 0, 0.65);
+  min-height: 410px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.choco-box-tray {
+  background: linear-gradient(145deg, #3E2723, #1F110E);
+  border: 5px solid #D4AF37;
+  border-radius: 16px;
+  padding: 22px;
+  box-shadow: 0 24px 48px rgba(0, 0, 0, 0.7), inset 0 0 18px rgba(212, 175, 55, 0.25);
+  transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.6s ease;
+  max-width: 100%;
+}
+
+/* Vista 3D con inclinación isométrica y relieve */
+.choco-box-tray.view-3d {
+  transform: rotateX(28deg) rotateZ(-6deg) scale(0.96);
+  box-shadow:
+    -12px 26px 0px #271511,
+    -14px 28px 0px #D4AF37,
+    0 35px 60px rgba(0, 0, 0, 0.85);
+}
+
+/* Vista 2D plana superior */
+.choco-box-tray.view-2d {
+  transform: rotateX(0deg) rotateZ(0deg) scale(1);
+}
+
+.box-grid-6 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+.box-grid-12 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+}
+
+.box-grid-24 {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 10px;
+}
+
+.bonbon-cavity {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 30% 30%, #1B0E0C, #0D0605);
+  border: 2px dashed rgba(212, 175, 55, 0.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.25s ease;
+  box-shadow: inset 0 5px 12px rgba(0, 0, 0, 0.85);
+}
+
+.box-grid-24 .bonbon-cavity {
+  width: 56px;
+  height: 56px;
+}
+
+.bonbon-cavity:hover {
+  border-color: #D4AF37;
+  transform: translateY(-3px) scale(1.05);
+}
+
+.bonbon-piece-3d {
+  width: 84%;
+  height: 84%;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #FFF8E1;
+  font-weight: 700;
+  box-shadow:
+    inset -4px -6px 12px rgba(0, 0, 0, 0.65),
+    inset 4px 4px 10px rgba(255, 255, 255, 0.28),
+    0 6px 10px rgba(0, 0, 0, 0.6);
+  animation: popInBonbon 0.28s ease-out;
+}
+
+@keyframes popInBonbon {
+  0% {
+    transform: scale(0.3);
+    opacity: 0;
+  }
+  80% {
+    transform: scale(1.08);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.piece-selector-btn {
+  border: 2px solid rgba(62, 39, 35, 0.2);
+  border-radius: 12px;
+  padding: 0.75rem;
+  background-color: #FFFFFF;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-align: left;
+  width: 100%;
+}
+
+.piece-selector-btn.selected,
+.piece-selector-btn:hover {
+  border-color: #D4AF37;
+  background-color: #FFF8E1;
+  box-shadow: 0 4px 14px rgba(212, 175, 55, 0.28);
+}
+
+@media (max-width: 575.98px) {
+  .bonbon-cavity {
+    width: 54px;
+    height: 54px;
+  }
+  .box-grid-24 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

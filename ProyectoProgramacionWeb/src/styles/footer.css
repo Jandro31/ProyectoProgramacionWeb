@@ -1,0 +1,92 @@
+/**
+ * @file footer.css
+ * @description Estilos para el Pie de Página (Footer) de ChocoArtisan.
+ * Incluye diseño para las tarjetas interactivas de los miembros del equipo
+ * y los botones de conexión a redes sociales (Facebook, Twitter/X, Instagram, YouTube).
+ */
+
+.footer-choco {
+  background: linear-gradient(180deg, #2B1814 0%, #190D0B 100%);
+  color: #FFF8E1;
+  border-top: 3px solid #D4AF37;
+  padding-top: 3.2rem;
+  padding-bottom: 2rem;
+  margin-top: 4rem;
+}
+
+.footer-title {
+  color: #D4AF37;
+  font-family: Georgia, serif;
+  font-size: 1.2rem;
+  margin-bottom: 1.1rem;
+  letter-spacing: 0.5px;
+}
+
+/* Botones interactivos de los integrantes del equipo */
+.team-member-chip {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  background-color: rgba(255, 248, 225, 0.06);
+  border: 1px solid rgba(212, 175, 55, 0.4);
+  border-radius: 10px;
+  padding: 0.6rem 0.85rem;
+  margin-bottom: 0.65rem;
+  color: #FFF8E1;
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.22s ease;
+}
+
+.team-member-chip:hover {
+  background-color: rgba(212, 175, 55, 0.22);
+  border-color: #D4AF37;
+  transform: translateX(5px);
+}
+
+.team-member-thumb {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 2px solid #D4AF37;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+/* Redes Sociales */
+.social-links-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.social-btn-choco {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  background-color: rgba(255, 248, 225, 0.08);
+  border: 1px solid #D4AF37;
+  color: #FFF8E1;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.social-btn-choco:hover {
+  background-color: #D4AF37;
+  color: #261512;
+  transform: translateY(-3px);
+}
+
+.student-modal-photo {
+  width: 145px;
+  height: 145px;
+  border-radius: 50%;
+  border: 4px solid #D4AF37;
+  object-fit: cover;
+  box-shadow: 0 8px 20px rgba(62, 39, 35, 0.35);
+}

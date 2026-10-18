@@ -1,0 +1,170 @@
+/**
+ * @file global.css
+ * @description Hoja de estilos global para ChocoArtisan (Fase I).
+ * Define la paleta de colores corporativos inspirada en el cacao, tipografías,
+ * el estilo de texto capitular (primera letra grande y a color), contraste visual
+ * y reglas de Responsive Design para celulares, tablets y Desktop.
+ */
+
+:root {
+  --cacao-profundo: #3E2723;
+  --cacao-oscuro: #261512;
+  --cacao-medio: #5D4037;
+  --crema-corporativo: #FFF8E1;
+  --crema-suave: #FDFBF7;
+  --dorado-imperial: #D4AF37;
+  --dorado-claro: #F5E6B3;
+  --blanco-puro: #FFFFFF;
+  --texto-oscuro: #2C1B18;
+  --exito-verde: #2E7D32;
+  --alerta-rojo: #C62828;
+  --sombra-elegante: 0 10px 28px rgba(62, 39, 35, 0.14);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  /* Espacio superior para que la barra de menús fija (fixed-top) nunca oculte el contenido */
+  padding-top: 84px;
+  background-color: var(--crema-corporativo);
+  color: var(--texto-oscuro);
+  font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.65;
+}
+
+h1, h2, h3, h4, h5, .serif-title {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: var(--cacao-profundo);
+  font-weight: 700;
+}
+
+/* ==========================================================================
+   REQUISITO: Texto con estilos (Primera letra grande y a color - Capitular)
+   ========================================================================== */
+.drop-cap-choco::first-letter {
+  float: left;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 3.5rem;
+  line-height: 0.85;
+  padding: 8px 14px;
+  margin-right: 12px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  color: var(--dorado-imperial);
+  background-color: var(--cacao-profundo);
+  border: 2px solid var(--dorado-imperial);
+  border-radius: 8px;
+  font-weight: 900;
+  box-shadow: 0 4px 10px rgba(62, 39, 35, 0.25);
+}
+
+/* Segunda variante de primera letra grande y a color sobre fondo claro */
+.drop-cap-gold::first-letter {
+  float: left;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 3.3rem;
+  line-height: 0.9;
+  padding-right: 10px;
+  color: #B3261E;
+  font-weight: 900;
+  text-shadow: 1px 1px 0px var(--dorado-imperial);
+}
+
+/* Botones corporativos con alto contraste */
+.btn-choco-gold {
+  background: linear-gradient(135deg, #E5C158 0%, #D4AF37 50%, #B58E24 100%);
+  color: var(--cacao-oscuro) !important;
+  font-weight: 700;
+  border: 1px solid #FFF8E1;
+  border-radius: 8px;
+  padding: 0.55rem 1.25rem;
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.3);
+}
+
+.btn-choco-gold:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(212, 175, 55, 0.5);
+  filter: brightness(1.06);
+}
+
+.btn-choco-dark {
+  background-color: var(--cacao-profundo);
+  color: var(--crema-corporativo) !important;
+  border: 1px solid var(--dorado-imperial);
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 0.55rem 1.25rem;
+  transition: all 0.25s ease;
+}
+
+.btn-choco-dark:hover {
+  background-color: var(--cacao-oscuro);
+  color: var(--dorado-imperial) !important;
+  transform: translateY(-2px);
+}
+
+/* Separador ornamental dorado */
+.gold-divider {
+  width: 90px;
+  height: 4px;
+  background: linear-gradient(90deg, transparent, var(--dorado-imperial), transparent);
+  margin: 0.75rem auto 1.5rem auto;
+  border-radius: 2px;
+}
+
+/* Tarjetas generales */
+.choco-card {
+  background-color: var(--blanco-puro);
+  border: 1px solid rgba(212, 175, 55, 0.38);
+  border-radius: 14px;
+  box-shadow: var(--sombra-elegante);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.choco-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 32px rgba(62, 39, 35, 0.2);
+}
+
+/* ==========================================================================
+   REQUISITO: Responsive Design (Celulares, Tablets y Desktop)
+   ========================================================================== */
+/* Dispositivos Móviles (Celulares < 768px) */
+@media (max-width: 767.98px) {
+  body {
+    padding-top: 74px;
+    font-size: 0.95rem;
+  }
+  .drop-cap-choco::first-letter {
+    font-size: 2.6rem;
+    padding: 6px 10px;
+  }
+  .section-heading {
+    font-size: 1.65rem;
+  }
+}
+
+/* Dispositivos Tablet (768px a 991.98px) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  body {
+    padding-top: 80px;
+  }
+  .section-heading {
+    font-size: 2rem;
+  }
+}
+
+/* Dispositivos Desktop (>= 992px) */
+@media (min-width: 992px) {
+  .section-heading {
+    font-size: 2.35rem;
+  }
+}

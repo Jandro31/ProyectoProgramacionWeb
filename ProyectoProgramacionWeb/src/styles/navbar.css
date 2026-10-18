@@ -1,0 +1,103 @@
+/**
+ * @file navbar.css
+ * @description Estilos para la barra de navegación fija (fixed-top) de ChocoArtisan.
+ * Garantiza que el menú permanezca fijo independientemente de las páginas invocadas,
+ * con alto contraste entre fondo café profundo (#3E2723), crema (#FFF8E1) y dorado (#D4AF37).
+ */
+
+.navbar-choco {
+  background: linear-gradient(90deg, #261512 0%, #3E2723 50%, #261512 100%);
+  border-bottom: 2px solid #D4AF37;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.45);
+  min-height: 78px;
+  z-index: 1040;
+}
+
+.navbar-brand-choco {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+}
+
+.navbar-logo-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 2px solid #D4AF37;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.navbar-brand-choco:hover .navbar-logo-img {
+  transform: rotate(8deg) scale(1.06);
+}
+
+.brand-title-main {
+  font-family: Georgia, serif;
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: #D4AF37;
+  letter-spacing: 1px;
+  line-height: 1.1;
+  display: block;
+}
+
+.brand-subtitle {
+  font-size: 0.7rem;
+  color: #FFF8E1;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  display: block;
+}
+
+.nav-link-choco {
+  color: #FFF8E1 !important;
+  font-weight: 500;
+  padding: 0.5rem 0.9rem !important;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.nav-link-choco:hover,
+.nav-link-choco.active {
+  color: #D4AF37 !important;
+  background-color: rgba(212, 175, 55, 0.12);
+}
+
+/* Estilo destacado para el Menú de Rutas Privadas (desplegado tras Login exitoso) */
+.private-menu-dropdown .dropdown-toggle {
+  background: rgba(212, 175, 55, 0.2);
+  border: 1px solid #D4AF37;
+  border-radius: 8px;
+  color: #F5E6B3 !important;
+  font-weight: 700;
+  padding: 0.45rem 0.9rem !important;
+}
+
+.navbar-choco .dropdown-menu {
+  background-color: #2E1B18;
+  border: 1px solid #D4AF37;
+  border-radius: 10px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+  padding: 0.5rem;
+}
+
+.navbar-choco .dropdown-item {
+  color: #FFF8E1;
+  border-radius: 6px;
+  padding: 0.5rem 0.85rem;
+  font-size: 0.92rem;
+  transition: all 0.15s ease;
+}
+
+.navbar-choco .dropdown-item:hover {
+  background-color: #D4AF37;
+  color: #261512;
+  font-weight: 600;
+}
+
+.navbar-choco .dropdown-divider {
+  border-top-color: rgba(212, 175, 55, 0.35);
+}

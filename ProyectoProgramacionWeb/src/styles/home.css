@@ -1,0 +1,180 @@
+/**
+ * @file home.css
+ * @description Estilos para la Portada Principal (HomePage), Hero Section,
+ * Carrusel Promocional, Diseño a Tres Columnas, Multimedia (Audio/Video) y Catálogo.
+ */
+
+/* Hero Banner Principal */
+.hero-banner-section {
+  position: relative;
+  border-radius: 18px;
+  overflow: hidden;
+  background-color: #261512;
+  border: 2px solid #D4AF37;
+  box-shadow: 0 14px 36px rgba(38, 21, 18, 0.35);
+  margin-bottom: 2rem;
+}
+
+.hero-banner-img {
+  width: 100%;
+  max-height: 440px;
+  object-fit: cover;
+  filter: brightness(0.88);
+}
+
+.hero-overlay-content {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(30, 15, 12, 0.92) 0%, rgba(45, 24, 20, 0.72) 58%, rgba(30, 15, 12, 0.25) 100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2.5rem 3.5rem;
+}
+
+/* Carrusel Promocional */
+.promo-carousel-wrapper {
+  border-radius: 16px;
+  overflow: hidden;
+  border: 2px solid #D4AF37;
+  box-shadow: 0 10px 28px rgba(62, 39, 35, 0.22);
+}
+
+.promo-carousel-img {
+  height: 360px;
+  object-fit: cover;
+  filter: brightness(0.82);
+}
+
+.promo-carousel-caption {
+  background: rgba(38, 21, 18, 0.85);
+  border: 1px solid #D4AF37;
+  border-radius: 12px;
+  padding: 1.25rem 1.75rem;
+  backdrop-filter: blur(4px);
+}
+
+/* ==========================================================================
+   REQUISITO: Diseño a Tres Columnas en la Portada
+   ========================================================================== */
+.three-col-section {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.col-feature-box {
+  background-color: #FFFFFF;
+  border: 1px solid rgba(212, 175, 55, 0.45);
+  border-top: 5px solid #3E2723;
+  border-radius: 14px;
+  padding: 1.6rem;
+  height: 100%;
+  box-shadow: 0 8px 24px rgba(62, 39, 35, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.col-feature-box.highlight-gold {
+  border-top: 5px solid #D4AF37;
+  background: linear-gradient(180deg, #FFFFFF 0%, #FFFDF6 100%);
+}
+
+.col-badge-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background-color: #3E2723;
+  color: #D4AF37;
+  font-weight: 700;
+  border: 1px solid #D4AF37;
+  margin-right: 10px;
+}
+
+/* Reproductores Multimedia (Video y Sonido) */
+.multimedia-player-box {
+  background-color: #261512;
+  border: 1px solid #D4AF37;
+  border-radius: 12px;
+  padding: 0.9rem;
+  color: #FFF8E1;
+}
+
+.multimedia-video {
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid rgba(212, 175, 55, 0.5);
+  max-height: 220px;
+  object-fit: cover;
+}
+
+.multimedia-audio {
+  width: 100%;
+  height: 40px;
+  margin-top: 0.4rem;
+}
+
+/* Tarjetas de Producto en Catálogo */
+.product-card-img-wrapper {
+  position: relative;
+  overflow: hidden;
+  border-top-left-radius: 13px;
+  border-top-right-radius: 13px;
+  height: 215px;
+  background-color: #261512;
+}
+
+.product-card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.35s ease;
+}
+
+.choco-card:hover .product-card-img {
+  transform: scale(1.06);
+}
+
+.cacao-percentage-badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background-color: rgba(38, 21, 18, 0.9);
+  color: #D4AF37;
+  border: 1px solid #D4AF37;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.category-pill-btn {
+  border-radius: 25px;
+  padding: 0.45rem 1.15rem;
+  font-weight: 600;
+  border: 1px solid #3E2723;
+  background-color: #FFFFFF;
+  color: #3E2723;
+  transition: all 0.2s ease;
+}
+
+.category-pill-btn.active,
+.category-pill-btn:hover {
+  background-color: #3E2723;
+  color: #D4AF37;
+  border-color: #D4AF37;
+}
+
+@media (max-width: 767.98px) {
+  .hero-overlay-content {
+    position: static;
+    background: #261512;
+    padding: 1.5rem;
+  }
+  .promo-carousel-img {
+    height: 250px;
+  }
+}

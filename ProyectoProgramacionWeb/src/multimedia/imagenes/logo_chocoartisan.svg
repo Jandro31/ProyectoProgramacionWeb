@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5DF90"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#9A7B1C"/>
+    </linearGradient>
+    <radialGradient id="cacaoBg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4E342E"/>
+      <stop offset="100%" stop-color="#271613"/>
+    </radialGradient>
+  </defs>
+  <circle cx="120" cy="120" r="112" fill="url(#cacaoBg)" stroke="url(#goldGrad)" stroke-width="5"/>
+  <circle cx="120" cy="120" r="102" fill="none" stroke="url(#goldGrad)" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <!-- Stylized Cacao Pod -->
+  <path d="M120 38 C155 58, 168 118, 120 175 C72 118, 85 58, 120 38 Z" fill="none" stroke="url(#goldGrad)" stroke-width="5"/>
+  <path d="M120 42 C136 72, 136 135, 120 171" fill="none" stroke="url(#goldGrad)" stroke-width="2.5"/>
+  <path d="M120 42 C104 72, 104 135, 120 171" fill="none" stroke="url(#goldGrad)" stroke-width="2.5"/>
+  <circle cx="120" cy="95" r="7" fill="url(#goldGrad)"/>
+  <circle cx="120" cy="120" r="7" fill="url(#goldGrad)"/>
+  <text x="120" y="202" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="url(#goldGrad)" text-anchor="middle" letter-spacing="2">CHOCOARTISAN</text>
+  <text x="120" y="218" font-family="Georgia, serif" font-size="9" fill="#FFF8E1" text-anchor="middle" letter-spacing="3">EST. SANTANDER</text>
+</svg>
