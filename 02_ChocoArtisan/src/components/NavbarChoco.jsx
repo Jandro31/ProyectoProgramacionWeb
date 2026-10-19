@@ -80,7 +80,7 @@ function NavbarChoco({
             </Nav.Link>
 
             <Nav.Link as={NavLink} to="/registro" className="nav-link-choco">
-              Registro (Captcha)
+              Registro
             </Nav.Link>
 
             {/* ====================================================================
@@ -155,7 +155,7 @@ function NavbarChoco({
                 className="btn-choco-gold btn-sm"
                 onClick={() => onOpenLoginModal()}
               >
-                🔐 Login (Admin | 1234)
+                🔐 Login
               </Button>
             )}
           </div>

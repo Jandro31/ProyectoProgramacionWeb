@@ -97,7 +97,7 @@ function HomePage({
           className="hero-banner-img"
         />
         <div className="hero-overlay-content">
-        
+
           <p
             className="lead mb-4"
             style={{ color: '#F5E6B3', maxWidth: '620px' }}
@@ -126,7 +126,7 @@ function HomePage({
                 }
               }}
             >
-              🎁 Crea tu Caja 3D/2D (Ruta Privada)
+              🎁 Crea tu Caja 3D/2D
             </Button>
           </div>
         </div>
@@ -191,13 +191,10 @@ function HomePage({
       <section className="three-col-section">
         <div className="text-center mb-4">
           <h2 className="section-heading">
-            Experiencia Sensorial ChocoArtisan (Diseño a Tres Columnas)
+            Experiencia Sensorial ChocoArtisan
           </h2>
           <div className="gold-divider" />
-          <p className="text-muted">
-            Tradición cacaotera, multimedia interactiva y efectos dinámicos de
-            interfaz (Collapse, Popover, Modal, Fade y Acordeón)
-          </p>
+
         </div>
 
         <Row className="g-4">
@@ -280,7 +277,7 @@ function HomePage({
                 <div className="d-flex align-items-center mb-3">
                   <span className="col-badge-number">2</span>
                   <h4 className="mb-0 serif-title">
-                    Maestro Chocolatero (Video)
+                    Maestro Chocolatero
                   </h4>
                 </div>
 
@@ -321,7 +318,7 @@ function HomePage({
                   overlay={popoverMaridaje}
                 >
                   <Button variant="outline-dark" className="w-100 fw-semibold">
-                    🍷 Ver Guía de Cata (Efecto Popover)
+                    🍷 Ver Guía de Cata
                   </Button>
                 </OverlayTrigger>
 
@@ -329,7 +326,7 @@ function HomePage({
                   className="btn-choco-gold w-100"
                   onClick={() => setSelectedQuickProduct(PRODUCTOS_CATALOGO[0])}
                 >
-                  🔍 Ficha de Degustación (Efecto Modal)
+                  🔍 Ficha de Degustación
                 </Button>
               </div>
             </div>
@@ -342,7 +339,7 @@ function HomePage({
                 <div className="d-flex align-items-center mb-3">
                   <span className="col-badge-number">3</span>
                   <h4 className="mb-0 serif-title">
-                    Etapas (Acordeón) & Efecto Fade
+                    Etapas
                   </h4>
                 </div>
 
@@ -387,8 +384,8 @@ function HomePage({
                   aria-expanded={openFadeCupon}
                 >
                   {openFadeCupon
-                    ? '✨ Ocultar Cupones VIP (Efecto Fade)'
-                    : '✨ Revelar Cupones VIP (Efecto Fade)'}
+                    ? '✨ Ocultar Cupones VIP'
+                    : '✨ Revelar Cupones VIP'}
                 </Button>
 
                 <Fade in={openFadeCupon}>
@@ -578,10 +575,6 @@ function HomePage({
             Completa tu Solicitud de Información y Guía de Envío
           </h2>
           <div className="gold-divider" />
-          <p className="text-muted">
-            Formulario implementado utilizando{' '}
-            <code>import Form from &apos;react-bootstrap/Form&apos;;</code>
-          </p>
         </div>
 
         {contactSubmitted && (
