@@ -1,0 +1,6 @@
+PWD c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf
+INPUT c:/texlive/2026/texmf.cnf
+INPUT c:/texlive/2026/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex
+OUTPUT 02_App.log

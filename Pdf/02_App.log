@@ -1,0 +1,4056 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.9.21)  19 OCT 2026 13:46
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex
+(c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-08-10>
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:3: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 3
+     0 0 obj
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--6
+[]
+ []
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:7: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 3
+     1 0 obj
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no x in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: LaTeX Error: Invalid UTF-8 byte "9C.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 xú
+       cbd`‡g`b``8	"Ÿ'ÄH∆^^]`R^^U,^^^G"À√@$k/à‰z^^A"MS@§Â! …®
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no ` in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: LaTeX Error: Invalid UTF-8 byte sequence (‡g`).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 xúcbd`‡g`
+              b``8	"Ÿ'ÄH∆^^]`R^^U,^^^G"À√@$k/à‰z^^A"MS@§Â! …®
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no " in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: LaTeX Error: Invalid UTF-8 byte sequence (Ÿ').
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 xúcbd`‡g`b``8	"Ÿ'
+                      ÄH∆^^]`R^^U,^^^G"À√@$k/à‰z^^A"MS@§Â! …®
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: LaTeX Error: Invalid UTF-8 byte "80.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 xúcbd`‡g`b``8	"Ÿ'Ä
+                       H∆^^]`R^^U,^^^G"À√@$k/à‰z^^A"MS@§Â! …®
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no H in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: LaTeX Error: Invalid UTF-8 byte sequence (∆^^]).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 xúcbd`‡g`b``8	"Ÿ'ÄH∆^^]
+                            `R^^U,^^^G"À√@$k/à‰z^^A"MS@§Â! …®
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no ` in font nullfont!
+Missing character: There is no R in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: LaTeX Error: Unicode character ^^U (U+0015)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 xúcbd`‡g`b``8	"Ÿ'ÄH∆^^]`R^^U
+                                 ,^^^G"À√@$k/à‰z^^A"MS@§Â! …®
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no , in font nullfont!
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: Missing $ inserted.
+<inserted text> 
+                $
+l.10 xúcbd`‡g`b``8	"Ÿ'ÄH∆^^]`R^^U,^
+                                   ^^G"À√@$k/à‰z^^A"MS@§Â! …®
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.10 xúcbd`‡g`b``8	"Ÿ'ÄH∆^^]`R^^U,^^^G
+                                      "À√@$k/à‰z^^A"MS@§Â! …®
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: LaTeX Error: Unicode character ^^G (U+0007)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 xúcbd`‡g`b``8	"Ÿ'ÄH∆^^]`R^^U,^^^G
+                                      "À√@$k/à‰z^^A"MS@§Â! …®
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: LaTeX Error: Invalid UTF-8 byte sequence (À√).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 xúcbd`‡g`b``8	"Ÿ'ÄH∆^^]`R^^U,^^^G"À√
+                                         @$k/à‰z^^A"MS@§Â! …®
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: Missing } inserted.
+<inserted text> 
+                }
+l.10 xúcbd`‡g`b``8	"Ÿ'ÄH∆^^]`R^^U,^^^G"À√@$
+                                           k/à‰z^^A"MS@§Â! …®
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no k in font nullfont!
+Missing character: There is no / in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: LaTeX Error: Invalid UTF-8 byte "88.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 xúcbd`‡g`b``8	"Ÿ'ÄH∆^^]`R^^U,^^^G"À√@$k/à
+                                              ‰z^^A"MS@§Â! …®
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: LaTeX Error: Invalid UTF-8 byte sequence (‰z^^A).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...d`‡g`b``8	"Ÿ'ÄH∆^^]`R^^U,^^^G"À√@$k/à‰z^^A
+                                                  "MS@§Â! …®
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no " in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no @ in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: LaTeX Error: Invalid UTF-8 byte "A4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...b``8	"Ÿ'ÄH∆^^]`R^^U,^^^G"À√@$k/à‰z^^A"MS@§
+                                                  Â! …®
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: LaTeX Error: Invalid UTF-8 byte sequence (Â!…).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...	"Ÿ'ÄH∆^^]`R^^U,^^^G"À√@$k/à‰z^^A"MS@§Â! …
+                                                  ®
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:10: LaTeX Error: Invalid UTF-8 byte "A8.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ..."Ÿ'ÄH∆^^]`R^^U,^^^G"À√@$k/à‰z^^A"MS@§Â! …®
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no V in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte "AF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ
+       ±^^ED2Ø^^Eë,H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒõÉ$ª^^ZÃ^^Fìb˚^^Yò^^XˇE
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte "B1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ±
+        ^^ED2Ø^^Eë,H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒõÉ$ª^^ZÃ^^Fìb˚^^Yò^^XˇE
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Unicode character ^^E (U+0005)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ±^^E
+           D2Ø^^Eë,H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒõÉ$ª^^ZÃ^^Fìb˚^^Yò^^XˇE
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no D in font nullfont!
+Missing character: There is no 2 in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte "AF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ±^^ED2Ø
+              ^^Eë,H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒõÉ$ª^^ZÃ^^Fìb˚^^Yò^^XˇE
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Unicode character ^^E (U+0005)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ±^^ED2Ø^^E
+                 ë,H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒõÉ$ª^^ZÃ^^Fìb˚^^Yò^^XˇE
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte "91.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ±^^ED2Ø^^Eë
+                  ,H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒõÉ$ª^^ZÃ^^Fìb˚^^Yò^^XˇE
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no , in font nullfont!
+Missing character: There is no H in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte sequence (Û^^Z^^P^^Y).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ±^^ED2Ø^^Eë,H$Û^^Z^^P^^Y
+                               °^^CRôt^^\ƒŒõÉ$ª^^ZÃ^^Fìb˚^^Yò^^XˇE
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte "A1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ±^^ED2Ø^^Eë,H$Û^^Z^^P^^Y°
+                                ^^CRôt^^\ƒŒõÉ$ª^^ZÃ^^Fìb˚^^Yò^^XˇE
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Unicode character ^^C (U+0003)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ±^^ED2Ø^^Eë,H$Û^^Z^^P^^Y°^^C
+                                   Rôt^^\ƒŒõÉ$ª^^ZÃ^^Fìb˚^^Yò^^XˇE
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte "99.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ±^^ED2Ø^^Eë,H$Û^^Z^^P^^Y°^^CRô
+                                     t^^\ƒŒõÉ$ª^^ZÃ^^Fìb˚^^Yò^^XˇE
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Unicode character ^^\ (U+001C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ±^^ED2Ø^^Eë,H$Û^^Z^^P^^Y°^^CRôt^^\
+                                         ƒŒõÉ$ª^^ZÃ^^Fìb˚^^Yò^^XˇE
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte sequence (ƒŒ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ±^^ED2Ø^^Eë,H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒ
+                                           õÉ$ª^^ZÃ^^Fìb˚^^Yò^^XˇE
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte "9B.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ±^^ED2Ø^^Eë,H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒõ
+                                            É$ª^^ZÃ^^Fìb˚^^Yò^^XˇE
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte "83.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ±^^ED2Ø^^Eë,H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒõÉ
+                                             $ª^^ZÃ^^Fìb˚^^Yò^^XˇE
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte "BB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ±^^ED2Ø^^Eë,H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒõÉ$ª
+                                               ^^ZÃ^^Fìb˚^^Yò^^XˇE
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Unicode character ^^Z (U+001A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 VØ±^^ED2Ø^^Eë,H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒõÉ$ª^^Z
+                                                  Ã^^Fìb˚^^Yò^^XˇE
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte sequence (Ã^^F).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...2Ø^^Eë,H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒõÉ$ª^^ZÃ^^F
+                                                  ìb˚^^Yò^^XˇE
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte "93.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...Ø^^Eë,H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒõÉ$ª^^ZÃ^^Fì
+                                                  b˚^^Yò^^XˇE
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no b in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte "FB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...^Eë,H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒõÉ$ª^^ZÃ^^Fìb˚
+                                                  ^^Yò^^XˇE
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Unicode character ^^Y (U+0019)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...,H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒõÉ$ª^^ZÃ^^Fìb˚^^Y
+                                                  ò^^XˇE
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte "98.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...H$Û^^Z^^P^^Y°^^CRôt^^\ƒŒõÉ$ª^^ZÃ^^Fìb˚^^Yò
+                                                  ^^XˇE
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Unicode character ^^X (U+0018)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...^^Z^^P^^Y°^^CRôt^^\ƒŒõÉ$ª^^ZÃ^^Fìb˚^^Yò^^X
+                                                  ˇE
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:11: LaTeX Error: Invalid UTF-8 byte "FF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...^Z^^P^^Y°^^CRôt^^\ƒŒõÉ$ª^^ZÃ^^Fìb˚^^Yò^^Xˇ
+                                                  E
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no E in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:12: LaTeX Error: Invalid UTF-8 byte "80.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 Ä
+      Ìe`^^\%á^^[…∏i‡›0J^^NV^^R^^@^^U…^^U^^V
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:12: LaTeX Error: Invalid UTF-8 byte sequence (Ìe`).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ÄÌe`
+         ^^\%á^^[…∏i‡›0J^^NV^^R^^@^^U…^^U^^V
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:12: LaTeX Error: Unicode character ^^\ (U+001C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ÄÌe`^^\
+            %á^^[…∏i‡›0J^^NV^^R^^@^^U…^^U^^V
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 7--15
+[]
+ []
+
+
+Overfull \hbox (10.62505pt too wide) in paragraph at lines 7--15
+[]$
+ []
+
+
+Overfull \hbox (11.28127pt too wide) in paragraph at lines 7--15
+\OML/cmm/m/it/10 Rt$
+ []
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:16: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 3
+      2 0 obj
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no x in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "9C.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 xú
+       c```b`‡P``e``æ∆ Ã^^@^^E`6HîÅe^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no ` in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (‡P`).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 xúc```b`‡P`
+                `e``æ∆ Ã^^@^^E`6HîÅe^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no ` in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no ` in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "BE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 xúc```b`‡P``e``æ
+                     ∆ Ã^^@^^E`6HîÅe^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (∆Ã).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 xúc```b`‡P``e``æ∆ Ã
+                        ^^@^^E`6HîÅe^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: Text line contains an invalid character.
+l.22 xúc```b`‡P``e``æ∆ Ã^^@
+                           ^^E`6HîÅe^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^E (U+0005)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 xúc```b`‡P``e``æ∆ Ã^^@^^E
+                              `6HîÅe^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no ` in font nullfont!
+Missing character: There is no 6 in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character  (U+000B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 xúc```b`‡P``e``æ∆ Ã^^@^^E`6
+                                 HîÅe^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no H in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "94.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 xúc```b`‡P``e``æ∆ Ã^^@^^E`6Hî
+                                   Åe^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "81.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 xúc```b`‡P``e``æ∆ Ã^^@^^E`6HîÅ
+                                    e^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no e in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 xúc```b`‡P``e``æ∆ Ã^^@^^E`6HîÅe^^B
+                                        ê`^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 xúc```b`‡P``e``æ∆ Ã^^@^^E`6HîÅe^^Bê
+                                         `^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no ` in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^T (U+0014)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 xúc```b`‡P``e``æ∆ Ã^^@^^E`6HîÅe^^Bê`^^T
+                                             `^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no ` in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^H (U+0008)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 xúc```b`‡P``e``æ∆ Ã^^@^^E`6HîÅe^^Bê`^^T`^^H
+                                                 	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no o in font nullfont!
+Missing character: There is no ` in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "BB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...b`‡P``e``æ∆ Ã^^@^^E`6HîÅe^^Bê`^^T`^^H	o`ª
+                                                  √,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^^@j...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (√,).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...‡P``e``æ∆ Ã^^@^^E`6HîÅe^^Bê`^^T`^^H	o`ª√,
+                                                  ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^^@j~˜...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Command \DJ unavailable in encoding .
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...``e``æ∆ Ã^^@^^E`6HîÅe^^Bê`^^T`^^H	o`ª√,ƒê
+                                                  ^^Q¿≥çqÀ^^AÈÔ3\B'/^^@j~˜Ê‘...
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^Q (U+0011)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...``æ∆ Ã^^@^^E`6HîÅe^^Bê`^^T`^^H	o`ª√,ƒê^^Q
+                                                  ¿≥çqÀ^^AÈÔ3\B'/^^@j~˜Ê‘Î9+...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "C0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...`æ∆ Ã^^@^^E`6HîÅe^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿
+                                                  ≥çqÀ^^AÈÔ3\B'/^^@j~˜Ê‘Î9+N...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "B3.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...æ∆ Ã^^@^^E`6HîÅe^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥
+                                                  çqÀ^^AÈÔ3\B'/^^@j~˜Ê‘Î9+N›...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "8D.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...∆ Ã^^@^^E`6HîÅe^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥ç
+                                                  qÀ^^AÈÔ3\B'/^^@j~˜Ê‘Î9+N›˝...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no q in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (À^^A).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...@^^E`6HîÅe^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^A
+                                                  ÈÔ3\B'/^^@j~˜Ê‘Î9+N›˝^^A$∂...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (ÈÔ3).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...E`6HîÅe^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3
+                                                  \B'/^^@j~˜Ê‘Î9+N›˝^^A$∂^€˝...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: Undefined control sequence.
+l.22 ...6HîÅe^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B
+                                                  '/^^@j~˜Ê‘Î9+N›˝^^A$∂^€˝ë„...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ' in font nullfont!
+Missing character: There is no / in font nullfont!
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: Text line contains an invalid character.
+l.22 ...e^^Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^^@
+                                                  j~˜Ê‘Î9+N›˝^^A$∂^€˝ë„Y—b≠Î...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no j in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "F7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...Bê`^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^^@j~˜
+                                                  Ê‘Î9+N›˝^^A$∂^€˝ë„Y—b≠ÎQÔè...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (Ê‘Î).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...^^T`^^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^^@j~˜Ê‘Î
+                                                  9+N›˝^^A$∂^€˝ë„Y—b≠ÎQÔè(œ<...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no + in font nullfont!
+Missing character: There is no N in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (›˝).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...^H	o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^^@j~˜Ê‘Î9+N›˝
+                                                  ^^A$∂^€˝ë„Y—b≠ÎQÔè(œ<’≥:6{...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^A (U+0001)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...o`ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^^@j~˜Ê‘Î9+N›˝^^A
+                                                  $∂^€˝ë„Y—b≠ÎQÔè(œ<’≥:6{ø@_...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "B6.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...ª√,ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^^@j~˜Ê‘Î9+N›˝^^A$∂
+                                                  ^€˝ë„Y—b≠ÎQÔè(œ<’≥:6{ø@_∫ñ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.22 ...ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^^@j~˜Ê‘Î9+N›˝^^A$∂^€˝
+                                                  ë„Y—b≠ÎQÔè(œ<’≥:6{ø@_∫ñ—⁄≠...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (€˝).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...ƒê^^Q¿≥çqÀ^^AÈÔ3\B'/^^@j~˜Ê‘Î9+N›˝^^A$∂^€˝
+                                                  ë„Y—b≠ÎQÔè(œ<’≥:6{ø@_∫ñ—⁄≠...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "91.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...ê^^Q¿≥çqÀ^^AÈÔ3\B'/^^@j~˜Ê‘Î9+N›˝^^A$∂^€˝ë
+                                                  „Y—b≠ÎQÔè(œ<’≥:6{ø@_∫ñ—⁄≠˜...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence („Y—).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...Q¿≥çqÀ^^AÈÔ3\B'/^^@j~˜Ê‘Î9+N›˝^^A$∂^€˝ë„Y—
+                                                  b≠ÎQÔè(œ<’≥:6{ø@_∫ñ—⁄≠˜;“@...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "AD.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...≥çqÀ^^AÈÔ3\B'/^^@j~˜Ê‘Î9+N›˝^^A$∂^€˝ë„Y—b≠
+                                                  ÎQÔè(œ<’≥:6{ø@_∫ñ—⁄≠˜;“@^^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (ÎQÔ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...À^^AÈÔ3\B'/^^@j~˜Ê‘Î9+N›˝^^A$∂^€˝ë„Y—b≠ÎQÔ
+                                                  è(œ<’≥:6{ø@_∫ñ—⁄≠˜;“@^^R±?...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "8F.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...^^AÈÔ3\B'/^^@j~˜Ê‘Î9+N›˝^^A$∂^€˝ë„Y—b≠ÎQÔè
+                                                  (œ<’≥:6{ø@_∫ñ—⁄≠˜;“@^^R±?Z...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (œ<).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...ÈÔ3\B'/^^@j~˜Ê‘Î9+N›˝^^A$∂^€˝ë„Y—b≠ÎQÔè(œ<
+                                                  ’≥:6{ø@_∫ñ—⁄≠˜;“@^^R±?Z@‹›...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ’≥ (U+0573)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...3\B'/^^@j~˜Ê‘Î9+N›˝^^A$∂^€˝ë„Y—b≠ÎQÔè(œ<’≥
+                                                  :6{ø@_∫ñ—⁄≠˜;“@^^R±?Z@‹›^^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "BF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 .../^^@j~˜Ê‘Î9+N›˝^^A$∂^€˝ë„Y—b≠ÎQÔè(œ<’≥:6{ø
+                                                  @_∫ñ—⁄≠˜;“@^^R±?Z@‹›^^_9a≤...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.22 ...@j~˜Ê‘Î9+N›˝^^A$∂^€˝ë„Y—b≠ÎQÔè(œ<’≥:6{ø@_∫
+                                                  ñ—⁄≠˜;“@^^R±?Z@‹›^^_9a≤©^[...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "BA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...@j~˜Ê‘Î9+N›˝^^A$∂^€˝ë„Y—b≠ÎQÔè(œ<’≥:6{ø@_∫
+                                                  ñ—⁄≠˜;“@^^R±?Z@‹›^^_9a≤©^[...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "96.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...j~˜Ê‘Î9+N›˝^^A$∂^€˝ë„Y—b≠ÎQÔè(œ<’≥:6{ø@_∫ñ
+                                                  —⁄≠˜;“@^^R±?Z@‹›^^_9a≤©^[Ø...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (—⁄).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...˜Ê‘Î9+N›˝^^A$∂^€˝ë„Y—b≠ÎQÔè(œ<’≥:6{ø@_∫ñ—⁄
+                                                  ≠˜;“@^^R±?Z@‹›^^_9a≤©^[ØÌS...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "AD.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...Ê‘Î9+N›˝^^A$∂^€˝ë„Y—b≠ÎQÔè(œ<’≥:6{ø@_∫ñ—⁄≠
+                                                  ˜;“@^^R±?Z@‹›^^_9a≤©^[ØÌSî...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "F7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...‘Î9+N›˝^^A$∂^€˝ë„Y—b≠ÎQÔè(œ<’≥:6{ø@_∫ñ—⁄≠˜
+                                                  ;“@^^R±?Z@‹›^^_9a≤©^[ØÌSîi...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (“@).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...+N›˝^^A$∂^€˝ë„Y—b≠ÎQÔè(œ<’≥:6{ø@_∫ñ—⁄≠˜;“@
+                                                  ^^R±?Z@‹›^^_9a≤©^[ØÌSîi¿e^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^R (U+0012)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...˝^^A$∂^€˝ë„Y—b≠ÎQÔè(œ<’≥:6{ø@_∫ñ—⁄≠˜;“@^^R
+                                                  ±?Z@‹›^^_9a≤©^[ØÌSîi¿e^^C^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "B1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...^^A$∂^€˝ë„Y—b≠ÎQÔè(œ<’≥:6{ø@_∫ñ—⁄≠˜;“@^^R±
+                                                  ?Z@‹›^^_9a≤©^[ØÌSîi¿e^^C^^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (‹›).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...^€˝ë„Y—b≠ÎQÔè(œ<’≥:6{ø@_∫ñ—⁄≠˜;“@^^R±?Z@‹›
+                                                  ^^_9a≤©^[ØÌSîi¿e^^C^^Pà1ö...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^_ (U+001F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...ë„Y—b≠ÎQÔè(œ<’≥:6{ø@_∫ñ—⁄≠˜;“@^^R±?Z@‹›^^_
+                                                  9a≤©^[ØÌSîi¿e^^C^^Pà1ö™^^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "B2.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...—b≠ÎQÔè(œ<’≥:6{ø@_∫ñ—⁄≠˜;“@^^R±?Z@‹›^^_9a≤
+                                                  ©^[ØÌSîi¿e^^C^^Pà1ö™^^Bi^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "A9.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...b≠ÎQÔè(œ<’≥:6{ø@_∫ñ—⁄≠˜;“@^^R±?Z@‹›^^_9a≤©
+                                                  ^[ØÌSîi¿e^^C^^Pà1ö™^^Bi^^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "AF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...QÔè(œ<’≥:6{ø@_∫ñ—⁄≠˜;“@^^R±?Z@‹›^^_9a≤©^[Ø
+                                                  ÌSîi¿e^^C^^Pà1ö™^^Bi^^Q ñ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (ÌSî).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...(œ<’≥:6{ø@_∫ñ—⁄≠˜;“@^^R±?Z@‹›^^_9a≤©^[ØÌSî
+                                                  i¿e^^C^^Pà1ö™^^Bi^^Q ñ^^B...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "C0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...<’≥:6{ø@_∫ñ—⁄≠˜;“@^^R±?Z@‹›^^_9a≤©^[ØÌSîi¿
+                                                  e^^C^^Pà1ö™^^Bi^^Q ñ^^Bã‘...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^C (U+0003)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...6{ø@_∫ñ—⁄≠˜;“@^^R±?Z@‹›^^_9a≤©^[ØÌSîi¿e^^C
+                                                  ^^Pà1ö™^^Bi^^Q ñ^^Bã‘1^^H...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^P (U+0010)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...@_∫ñ—⁄≠˜;“@^^R±?Z@‹›^^_9a≤©^[ØÌSîi¿e^^C^^P
+                                                  à1ö™^^Bi^^Q ñ^^Bã‘1^^H00î...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "88.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ..._∫ñ—⁄≠˜;“@^^R±?Z@‹›^^_9a≤©^[ØÌSîi¿e^^C^^Pà
+                                                  1ö™^^Bi^^Q ñ^^Bã‘1^^H00îﬁ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (ö™^^B).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...;“@^^R±?Z@‹›^^_9a≤©^[ØÌSîi¿e^^C^^Pà1ö™^^B
+                                                  i^^Q ñ^^Bã‘1^^H00îﬁ`ÂÁÃ2yf...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^Q (U+0011)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...^R±?Z@‹›^^_9a≤©^[ØÌSîi¿e^^C^^Pà1ö™^^Bi^^Q
+                                                   ñ^^Bã‘1^^H00îﬁ`ÂÁÃ2yf·¢e•...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "96.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...±?Z@‹›^^_9a≤©^[ØÌSîi¿e^^C^^Pà1ö™^^Bi^^Q ñ
+                                                  ^^Bã‘1^^H00îﬁ`ÂÁÃ2yf·¢e•n∆...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...@‹›^^_9a≤©^[ØÌSîi¿e^^C^^Pà1ö™^^Bi^^Q ñ^^B
+                                                  ã‘1^^H00îﬁ`ÂÁÃ2yf·¢e•n∆¨^^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "8B.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...‹›^^_9a≤©^[ØÌSîi¿e^^C^^Pà1ö™^^Bi^^Q ñ^^Bã
+                                                  ‘1^^H00îﬁ`ÂÁÃ2yf·¢e•n∆¨^^O...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (‘1).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...^^_9a≤©^[ØÌSîi¿e^^C^^Pà1ö™^^Bi^^Q ñ^^Bã‘1
+                                                  ^^H00îﬁ`ÂÁÃ2yf·¢e•n∆¨^^OÜz...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^H (U+0008)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...9a≤©^[ØÌSîi¿e^^C^^Pà1ö™^^Bi^^Q ñ^^Bã‘1^^H
+                                                  00îﬁ`ÂÁÃ2yf·¢e•n∆¨^^OÜz·Î^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "94.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...©^[ØÌSîi¿e^^C^^Pà1ö™^^Bi^^Q ñ^^Bã‘1^^H00î
+                                                  ﬁ`ÂÁÃ2yf·¢e•n∆¨^^OÜz·Î^^R=...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (ﬁ`).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...[ØÌSîi¿e^^C^^Pà1ö™^^Bi^^Q ñ^^Bã‘1^^H00îﬁ`
+                                                  ÂÁÃ2yf·¢e•n∆¨^^OÜz·Î^^R=sÂ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (ÂÁÃ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...Sîi¿e^^C^^Pà1ö™^^Bi^^Q ñ^^Bã‘1^^H00îﬁ`ÂÁÃ
+                                                  2yf·¢e•n∆¨^^OÜz·Î^^R=sÂÄ,]...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (·¢e).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...^C^^Pà1ö™^^Bi^^Q ñ^^Bã‘1^^H00îﬁ`ÂÁÃ2yf·¢e
+                                                  •n∆¨^^OÜz·Î^^R=sÂÄ,]f]QG^^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "A5.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...C^^Pà1ö™^^Bi^^Q ñ^^Bã‘1^^H00îﬁ`ÂÁÃ2yf·¢e•
+                                                  n∆¨^^OÜz·Î^^R=sÂÄ,]f]QG^^N...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ∆¨ (U+01AC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...Pà1ö™^^Bi^^Q ñ^^Bã‘1^^H00îﬁ`ÂÁÃ2yf·¢e•n∆¨
+                                                  ^^OÜz·Î^^R=sÂÄ,]f]QG^^N”∏w...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^O (U+000F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...ö™^^Bi^^Q ñ^^Bã‘1^^H00îﬁ`ÂÁÃ2yf·¢e•n∆¨^^O
+                                                  Üz·Î^^R=sÂÄ,]f]QG^^N”∏wVÌÌ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "86.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...ö™^^Bi^^Q ñ^^Bã‘1^^H00îﬁ`ÂÁÃ2yf·¢e•n∆¨^^OÜ
+                                                  z·Î^^R=sÂÄ,]f]QG^^N”∏wVÌÌÌ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (·Î^^R).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...^^Q ñ^^Bã‘1^^H00îﬁ`ÂÁÃ2yf·¢e•n∆¨^^OÜz·Î^^R
+                                                  =sÂÄ,]f]QG^^N”∏wVÌÌÌÃz >‘^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (ÂÄ,).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...^^Bã‘1^^H00îﬁ`ÂÁÃ2yf·¢e•n∆¨^^OÜz·Î^^R=sÂÄ,
+                                                  ]f]QG^^N”∏wVÌÌÌÃz >‘^^?&^^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^N (U+000E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...H00îﬁ`ÂÁÃ2yf·¢e•n∆¨^^OÜz·Î^^R=sÂÄ,]f]QG^^N
+                                                  ”∏wVÌÌÌÃz >‘^^?&^^LL^^S^^\...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ”∏ (U+04F8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...0îﬁ`ÂÁÃ2yf·¢e•n∆¨^^OÜz·Î^^R=sÂÄ,]f]QG^^N”∏
+                                                  wVÌÌÌÃz >‘^^?&^^LL^^S^^\^^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (ÌÌÌ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...ÁÃ2yf·¢e•n∆¨^^OÜz·Î^^R=sÂÄ,]f]QG^^N”∏wVÌÌÌ
+                                                  Ãz >‘^^?&^^LL^^S^^\^^X¿ûó+...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (Ãz).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...2yf·¢e•n∆¨^^OÜz·Î^^R=sÂÄ,]f]QG^^N”∏wVÌÌÌÃz
+                                                   >‘^^?&^^LL^^S^^\^^X¿ûó+^^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: Text line contains an invalid character.
+l.22 ...•n∆¨^^OÜz·Î^^R=sÂÄ,]f]QG^^N”∏wVÌÌÌÃz >‘^^?
+                                                  &^^LL^^S^^\^^X¿ûó+^^B^^@∞êL%
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte sequence (‘&).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...n∆¨^^OÜz·Î^^R=sÂÄ,]f]QG^^N”∏wVÌÌÌÃz >‘^^?&
+                                                  ^^LL^^S^^\^^X¿ûó+^^B^^@∞êL%
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: Missing $ inserted.
+<inserted text> 
+                $
+l.22 ...^^OÜz·Î^^R=sÂÄ,]f]QG^^N”∏wVÌÌÌÃz >‘^^?&^^L
+                                                  L^^S^^\^^X¿ûó+^^B^^@∞êL%
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: Missing } inserted.
+<inserted text> 
+                }
+l.22 ...^^OÜz·Î^^R=sÂÄ,]f]QG^^N”∏wVÌÌÌÃz >‘^^?&^^L
+                                                  L^^S^^\^^X¿ûó+^^B^^@∞êL%
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: Missing } inserted.
+<inserted text> 
+                }
+l.22 ...^^OÜz·Î^^R=sÂÄ,]f]QG^^N”∏wVÌÌÌÃz >‘^^?&^^L
+                                                  L^^S^^\^^X¿ûó+^^B^^@∞êL%
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: Missing } inserted.
+<inserted text> 
+                }
+l.22 ...^^OÜz·Î^^R=sÂÄ,]f]QG^^N”∏wVÌÌÌÃz >‘^^?&^^L
+                                                  L^^S^^\^^X¿ûó+^^B^^@∞êL%
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 16--22
+[]
+ []
+
+
+Overfull \hbox (126.8479pt too wide) in paragraph at lines 16--22
+[]$ 
+ []
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...^OÜz·Î^^R=sÂÄ,]f]QG^^N”∏wVÌÌÌÃz >‘^^?&^^LL
+                                                  ^^S^^\^^X¿ûó+^^B^^@∞êL%
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no L in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^S (U+0013)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...z·Î^^R=sÂÄ,]f]QG^^N”∏wVÌÌÌÃz >‘^^?&^^LL^^S
+                                                  ^^\^^X¿ûó+^^B^^@∞êL%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^\ (U+001C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...^^R=sÂÄ,]f]QG^^N”∏wVÌÌÌÃz >‘^^?&^^LL^^S^^\
+                                                  ^^X¿ûó+^^B^^@∞êL%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^X (U+0018)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...=sÂÄ,]f]QG^^N”∏wVÌÌÌÃz >‘^^?&^^LL^^S^^\^^X
+                                                  ¿ûó+^^B^^@∞êL%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "C0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...sÂÄ,]f]QG^^N”∏wVÌÌÌÃz >‘^^?&^^LL^^S^^\^^X¿
+                                                  ûó+^^B^^@∞êL%
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "9E.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...ÂÄ,]f]QG^^N”∏wVÌÌÌÃz >‘^^?&^^LL^^S^^\^^X¿û
+                                                  ó+^^B^^@∞êL%
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "97.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...Ä,]f]QG^^N”∏wVÌÌÌÃz >‘^^?&^^LL^^S^^\^^X¿ûó
+                                                  +^^B^^@∞êL%
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no + in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Unicode character ^^B (U+0002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...]QG^^N”∏wVÌÌÌÃz >‘^^?&^^LL^^S^^\^^X¿ûó+^^B
+                                                  ^^@∞êL%
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: Text line contains an invalid character.
+l.22 ...^^N”∏wVÌÌÌÃz >‘^^?&^^LL^^S^^\^^X¿ûó+^^B^^@
+                                                  ∞êL%
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "B0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...^N”∏wVÌÌÌÃz >‘^^?&^^LL^^S^^\^^X¿ûó+^^B^^@∞
+                                                  êL%
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:22: LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 ...N”∏wVÌÌÌÃz >‘^^?&^^LL^^S^^\^^X¿ûó+^^B^^@∞ê
+                                                  L%
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no L in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no W in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no x in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:31: LaTeX Error: Invalid UTF-8 byte "9C.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 xú
+       ÏΩ^^E{^^TY∑˛}>ƒÉƒΩ]¢^^]wwww'FÄ‡^^D'h–`¡%JH ê^^@A^^RB Hpgê	23Á^^?Œ˚^^E...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:31: LaTeX Error: Invalid UTF-8 byte sequence (ÏΩ^^E).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 xúÏΩ^^E
+            {^^TY∑˛}>ƒÉƒΩ]¢^^]wwww'FÄ‡^^D'h–`¡%JH ê^^@A^^RB Hpgê	23Á^^?Œ˚^^E...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:31: LaTeX Error: Unicode character ^^T (U+0014)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 xúÏΩ^^E{^^T
+                Y∑˛}>ƒÉƒΩ]¢^^]wwww'FÄ‡^^D'h–`¡%JH ê^^@A^^RB Hpgê	23Á^^?Œ˚^^E...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no Y in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:31: LaTeX Error: Invalid UTF-8 byte "B7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 xúÏΩ^^E{^^TY∑
+                  ˛}>ƒÉƒΩ]¢^^]wwww'FÄ‡^^D'h–`¡%JH ê^^@A^^RB Hpgê	23Á^^?Œ˚^^E...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:31: LaTeX Error: Invalid UTF-8 byte "FE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 xúÏΩ^^E{^^TY∑˛
+                   }>ƒÉƒΩ]¢^^]wwww'FÄ‡^^D'h–`¡%JH ê^^@A^^RB Hpgê	23Á^^?Œ˚^^E...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no > in font nullfont!
+LaTeX Font Info:    Trying to load font information for +cmr on input line 31.
+LaTeX Font Info:    No file cmr.fd. on input line 31.
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 31.
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:31: Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.31 xúÏΩ^^E{^^TY∑˛}>ƒÉ
+                       ƒΩ]¢^^]wwww'FÄ‡^^D'h–`¡%JH ê^^@A^^RB Hpgê	23Á^^?Œ˚^^E...
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 31.
+
+Missing character: There is no ] in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:31: LaTeX Error: Invalid UTF-8 byte "A2.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 xúÏΩ^^E{^^TY∑˛}>ƒÉƒΩ]¢
+                           ^^]wwww'FÄ‡^^D'h–`¡%JH ê^^@A^^RB Hpgê	23Á^^?Œ˚^^E...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:31: LaTeX Error: Unicode character ^^] (U+001D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 xúÏΩ^^E{^^TY∑˛}>ƒÉƒΩ]¢^^]
+                              wwww'FÄ‡^^D'h–`¡%JH ê^^@A^^RB Hpgê	23Á^^?Œ˚^^E...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no F in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:31: LaTeX Error: Invalid UTF-8 byte "80.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 xúÏΩ^^E{^^TY∑˛}>ƒÉƒΩ]¢^^]wwww'FÄ
+                                     ‡^^D'h–`¡%JH ê^^@A^^RB Hpgê	23Á^^?Œ˚^^E...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:31: LaTeX Error: Invalid UTF-8 byte sequence (‡^^D').
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 xúÏΩ^^E{^^TY∑˛}>ƒÉƒΩ]¢^^]wwww'FÄ‡^^D'
+                                          h–`¡%JH ê^^@A^^RB Hpgê	23Á^^?Œ˚^^E...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no h in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:31: LaTeX Error: Invalid UTF-8 byte sequence (–`).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 xúÏΩ^^E{^^TY∑˛}>ƒÉƒΩ]¢^^]wwww'FÄ‡^^D'h–`
+                                             ¡%JH ê^^@A^^RB Hpgê	23Á^^?Œ˚^^E...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:31: LaTeX Error: Invalid UTF-8 byte "C1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 xúÏΩ^^E{^^TY∑˛}>ƒÉƒΩ]¢^^]wwww'FÄ‡^^D'h–`¡
+                                              %JH ê^^@A^^RB Hpgê	23Á^^?Œ˚^^E...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:32: LaTeX Error: Invalid UTF-8 byte "B3.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 ≥
+      2í@º^^Cˇ^Ix^^?%q∫?—_c^^Z∆∑^^Gµ_^^@∆˜´øﬁ´˛z∑Z#ò^^__»Ì€^^[∑^^?U™JèÚ$˚x^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no 2 in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:32: LaTeX Error: Invalid UTF-8 byte "92.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 ≥2í
+        @º^^Cˇ^Ix^^?%q∫?—_c^^Z∆∑^^Gµ_^^@∆˜´øﬁ´˛z∑Z#ò^^__»Ì€^^[∑^^?U™JèÚ$˚x^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no @ in font nullfont!
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:32: LaTeX Error: Invalid UTF-8 byte "BC.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 ≥2í@º
+          ^^Cˇ^Ix^^?%q∫?—_c^^Z∆∑^^Gµ_^^@∆˜´øﬁ´˛z∑Z#ò^^__»Ì€^^[∑^^?U™JèÚ$˚x^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:32: LaTeX Error: Unicode character ^^C (U+0003)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 ≥2í@º^^C
+             ˇ^Ix^^?%q∫?—_c^^Z∆∑^^Gµ_^^@∆˜´øﬁ´˛z∑Z#ò^^__»Ì€^^[∑^^?U™JèÚ$˚x^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:32: LaTeX Error: Invalid UTF-8 byte "FF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 ≥2í@º^^Cˇ
+              ^Ix^^?%q∫?—_c^^Z∆∑^^Gµ_^^@∆˜´øﬁ´˛z∑Z#ò^^__»Ì€^^[∑^^?U™JèÚ$˚x^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:32: Missing $ inserted.
+<inserted text> 
+                $
+l.32 ≥2í@º^^Cˇ^
+               Ix^^?%q∫?—_c^^Z∆∑^^Gµ_^^@∆˜´øﬁ´˛z∑Z#ò^^__»Ì€^^[∑^^?U™JèÚ$˚x^...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:32: Text line contains an invalid character.
+l.32 ≥2í@º^^Cˇ^Ix^^?
+                    %q∫?—_c^^Z∆∑^^Gµ_^^@∆˜´øﬁ´˛z∑Z#ò^^__»Ì€^^[∑^^?U™JèÚ$˚x^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte "B1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 =±
+       1‰Ë˙‡^^X^^O^^[ıπ.ñÒ^6^^^BcçÒ¶g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte sequence (‰Ë˙).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 =±1‰Ë˙
+           ‡^^X^^O^^[ıπ.ñÒ^6^^^BcçÒ¶g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte sequence (‡^^X^^O).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 =±1‰Ë˙‡^^X^^O
+                  ^^[ıπ.ñÒ^6^^^BcçÒ¶g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Unicode character ^^[ (U+001B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 =±1‰Ë˙‡^^X^^O^^[
+                     ıπ.ñÒ^6^^^BcçÒ¶g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte "F5.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 =±1‰Ë˙‡^^X^^O^^[ı
+                      π.ñÒ^6^^^BcçÒ¶g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte "B9.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 =±1‰Ë˙‡^^X^^O^^[ıπ
+                       .ñÒ^6^^^BcçÒ¶g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte "96.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 =±1‰Ë˙‡^^X^^O^^[ıπ.ñ
+                         Ò^6^^^BcçÒ¶g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte sequence (Ò^6^^^).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 =±1‰Ë˙‡^^X^^O^^[ıπ.ñÒ^6^^^
+                               BcçÒ¶g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte "8D.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 =±1‰Ë˙‡^^X^^O^^[ıπ.ñÒ^6^^^Bcç
+                                  Ò¶g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte sequence (Ò¶g€).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 =±1‰Ë˙‡^^X^^O^^[ıπ.ñÒ^6^^^BcçÒ¶g€
+                                      ]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte "B8.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 =±1‰Ë˙‡^^X^^O^^[ıπ.ñÒ^6^^^BcçÒ¶g€]`∏
+                                         ¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte "B4.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 =±1‰Ë˙‡^^X^^O^^[ıπ.ñÒ^6^^^BcçÒ¶g€]`∏¥
+                                          »n¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte sequence (»n).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 =±1‰Ë˙‡^^X^^O^^[ıπ.ñÒ^6^^^BcçÒ¶g€]`∏¥»n
+                                            ¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte "F8.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 =±1‰Ë˙‡^^X^^O^^[ıπ.ñÒ^6^^^BcçÒ¶g€]`∏¥»n¯
+                                             D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Unicode character ^^H (U+0008)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 =±1‰Ë˙‡^^X^^O^^[ıπ.ñÒ^6^^^BcçÒ¶g€]`∏¥»n¯D^^H
+                                                 ^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Unicode character ^^T (U+0014)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...˙‡^^X^^O^^[ıπ.ñÒ^6^^^BcçÒ¶g€]`∏¥»n¯D^^H^^T
+                                                  feDº^^^P∆≈–Èænø^^Fy|^^EÓ‚¡...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte "BC.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...X^^O^^[ıπ.ñÒ^6^^^BcçÒ¶g€]`∏¥»n¯D^^H^^TfeDº
+                                                  ^^^P∆≈–Èænø^^Fy|^^EÓ‚¡\^^P...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Unicode character ^^^ (U+001E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...O^^[ıπ.ñÒ^6^^^BcçÒ¶g€]`∏¥»n¯D^^H^^TfeDº^^^
+                                                  P∆≈–Èænø^^Fy|^^EÓ‚¡\^^Pt0^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte sequence (∆≈).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...[ıπ.ñÒ^6^^^BcçÒ¶g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈
+                                                  –Èænø^^Fy|^^EÓ‚¡\^^Pt0^^?^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte sequence (–È).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...π.ñÒ^6^^^BcçÒ¶g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–È
+                                                  ænø^^Fy|^^EÓ‚¡\^^Pt0^^?^^Z...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte "BE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ....ñÒ^6^^^BcçÒ¶g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èæ
+                                                  nø^^Fy|^^EÓ‚¡\^^Pt0^^?^^Zõ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte "BF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...Ò^6^^^BcçÒ¶g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø
+                                                  ^^Fy|^^EÓ‚¡\^^Pt0^^?^^Zõsj...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Unicode character ^^F (U+0006)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...^^^BcçÒ¶g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø^^F
+                                                  y|^^EÓ‚¡\^^Pt0^^?^^Zõsj[\z...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Unicode character ^^E (U+0005)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...çÒ¶g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^E
+                                                  Ó‚¡\^^Pt0^^?^^Zõsj[\zà^^T`...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte sequence (Ó‚¡).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...g€]`∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ‚¡
+                                                  \^^Pt0^^?^^Zõsj[\zà^^T`¿^^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: Undefined control sequence.
+l.33 ...∏¥»n¯D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ‚¡\^^P
+                                                  t0^^?^^Zõsj[\zà^^T`¿^^Qc(W
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: Text line contains an invalid character.
+l.33 ...D^^H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ‚¡\^^Pt0^^?
+                                                  ^^Zõsj[\zà^^T`¿^^Qc(W
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Unicode character ^^Z (U+001A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...H^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ‚¡\^^Pt0^^?^^Z
+                                                  õsj[\zà^^T`¿^^Qc(W
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte "9B.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...^^TfeDº^^^P∆≈–Èænø^^Fy|^^EÓ‚¡\^^Pt0^^?^^Zõ
+                                                  sj[\zà^^T`¿^^Qc(W
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: Undefined control sequence.
+l.33 ...Dº^^^P∆≈–Èænø^^Fy|^^EÓ‚¡\^^Pt0^^?^^Zõsj[\z
+                                                  à^^T`¿^^Qc(W
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte "88.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...º^^^P∆≈–Èænø^^Fy|^^EÓ‚¡\^^Pt0^^?^^Zõsj[\zà
+                                                  ^^T`¿^^Qc(W
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Unicode character ^^T (U+0014)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...^P∆≈–Èænø^^Fy|^^EÓ‚¡\^^Pt0^^?^^Zõsj[\zà^^T
+                                                  `¿^^Qc(W
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Invalid UTF-8 byte "C0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...∆≈–Èænø^^Fy|^^EÓ‚¡\^^Pt0^^?^^Zõsj[\zà^^T`¿
+                                                  ^^Qc(W
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:33: LaTeX Error: Unicode character ^^Q (U+0011)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...Èænø^^Fy|^^EÓ‚¡\^^Pt0^^?^^Zõsj[\zà^^T`¿^^Q
+                                                  c(W
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "A3.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£
+       ‘^^@—¬^^B◊Ωç!±û|¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: Text line contains an invalid character.
+l.34 k£‘^^@
+           —¬^^B◊Ωç!±û|¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte sequence (‘—).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—
+            ¬^^B◊Ωç!±û|¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte sequence (¬^^B).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—¬^^B
+                ◊Ωç!±û|¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Unicode character ◊Ω (U+05FD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—¬^^B◊Ω
+                  ç!±û|¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "8D.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—¬^^B◊Ωç
+                   !±û|¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "B1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—¬^^B◊Ωç!±
+                     û|¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "9E.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—¬^^B◊Ωç!±û
+                      |¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "C0.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—¬^^B◊Ωç!±û|¿
+                        *^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Unicode character ^^Z (U+001A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—¬^^B◊Ωç!±û|¿*^^Z
+                            ß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "A7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—¬^^B◊Ωç!±û|¿*^^Zß
+                             ∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "B7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—¬^^B◊Ωç!±û|¿*^^Zß∑
+                              FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "B5.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—¬^^B◊Ωç!±û|¿*^^Zß∑FNµ
+                                 Tä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "8A.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—¬^^B◊Ωç!±û|¿*^^Zß∑FNµTä
+                                   ^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: Text line contains an invalid character.
+l.34 k£‘^^@—¬^^B◊Ωç!±û|¿*^^Zß∑FNµTä^^?
+                                      ^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Unicode character ^^[ (U+001B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—¬^^B◊Ωç!±û|¿*^^Zß∑FNµTä^^?^^[
+                                         .xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Unicode character ÿü (U+061F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—¬^^B◊Ωç!±û|¿*^^Zß∑FNµTä^^?^^[.xÿü
+                                             ï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "95.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—¬^^B◊Ωç!±û|¿*^^Zß∑FNµTä^^?^^[.xÿüï
+                                              ^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Unicode character ^^S (U+0013)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 k£‘^^@—¬^^B◊Ωç!±û|¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S
+                                                 &^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: Misplaced alignment tab character &.
+l.34 k£‘^^@—¬^^B◊Ωç!±û|¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&
+                                                  ^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Unicode character ^^Q (U+0011)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...—¬^^B◊Ωç!±û|¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q
+                                                  ^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ªìS^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Unicode character ^^[ (U+001B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...^B◊Ωç!±û|¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[
+                                                  Ã@c]µGˇÅò°cÒCG„F€ì∆ªìS^^C^...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte sequence (Ã@).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...◊Ωç!±û|¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@
+                                                  c]µGˇÅò°cÒCG„F€ì∆ªìS^^C^^E...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "B5.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...!±û|¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µ
+                                                  GˇÅò°cÒCG„F€ì∆ªìS^^C^^EË∑¿...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "FF.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...û|¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇ
+                                                  Åò°cÒCG„F€ì∆ªìS^^C^^EË∑¿π^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "81.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...|¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅ
+                                                  ò°cÒCG„F€ì∆ªìS^^C^^EË∑¿π^^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "98.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...¿*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò
+                                                  °cÒCG„F€ì∆ªìS^^C^^EË∑¿π^^]...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "A1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...*^^Zß∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°
+                                                  cÒCG„F€ì∆ªìS^^C^^EË∑¿π^^]Õ...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte sequence (ÒCG„).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...∑FNµTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„
+                                                  F€ì∆ªìS^^C^^EË∑¿π^^]Õ°h?Âı...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Unicode character €ì (U+06D3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...µTä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì
+                                                  ∆ªìS^^C^^EË∑¿π^^]Õ°h?ÂıP∆Õ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Unicode character ∆ª (U+01BB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...ä^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ª
+                                                  ìS^^C^^EË∑¿π^^]Õ°h?ÂıP∆Õ”±...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "93.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...^^?^^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ªì
+                                                  S^^C^^EË∑¿π^^]Õ°h?ÂıP∆Õ”±ù...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Unicode character ^^C (U+0003)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...^[.xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ªìS^^C
+                                                  ^^EË∑¿π^^]Õ°h?ÂıP∆Õ”±ùÕ!—n...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Unicode character ^^E (U+0005)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...xÿüï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ªìS^^C^^E
+                                                  Ë∑¿π^^]Õ°h?ÂıP∆Õ”±ùÕ!—nVú’...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte sequence (Ë∑¿).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...ï^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ªìS^^C^^EË∑¿
+                                                  π^^]Õ°h?ÂıP∆Õ”±ùÕ!—nVú’õ^^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34: LaTeX Error: Invalid UTF-8 byte "B9.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...^^S&^^Q^^[Ã@c]µGˇÅò°cÒCG„F€ì∆ªìS^^C^^EË∑¿π
+                                                  ^^]Õ°h?ÂıP∆Õ”±ùÕ!—nVú’õ^^E...
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 88 strings out of 467098
+ 1070 string characters out of 5412481
+ 436799 words of memory out of 5000000
+ 29520 multiletter control sequences out of 15000+600000
+ 627721 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,4n,32p,1343b,90s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+c:/Users/Machine/Documents/GitHub/ProyectoProgramacionWeb/Pdf/02_App.tex:34:  ==> Fatal error occurred, no output PDF file produced!

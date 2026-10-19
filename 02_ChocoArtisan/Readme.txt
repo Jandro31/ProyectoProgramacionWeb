@@ -30,8 +30,7 @@ PASO 1: Descomprimir o ubicar la carpeta del aplicativo
 Abra una terminal (Consola / PowerShell / Bash) e ingrese a la carpeta del
 proyecto React:
 
-    cd ProyectoProgramacionWeb
-    (o cd 02_App / 02_ChocoArtisan según el nombre de la carpeta descomprimida)
+    cd 02_ChocoArtisan
 
 PASO 2: Instalar las dependencias del proyecto (node_modules)
 Dado que la entrega Fase-I se distribuye sin la carpeta "node_modules", ejecute
@@ -50,30 +49,9 @@ PASO 4: Abrir la aplicación en el navegador
 La consola mostrará una URL local (por defecto http://localhost:5173/). Abra dicha
 dirección en su navegador web preferido.
 
---------------------------------------------------------------------------------
-3. PASO A PASO PARA DESPLEGAR EN UN SERVIDOR WEB DE PRODUCCIÓN
---------------------------------------------------------------------------------
-
-PASO 1: Generar el compilado optimizado de producción
-Ejecute el comando:
-
-    npm run build
-
-Esto creará la carpeta "dist/" con todos los archivos HTML, CSS, JavaScript y
-recursos Multimedia empaquetados y minificados.
-
-PASO 2: Previsualizar el servidor de producción localmente (Opcional)
-Puede probar la versión compilada ejecutando:
-
-    npm run preview
-
-PASO 3: Subir al servidor web (Apache, Nginx, Vercel, Netlify o Render)
-Copie el contenido de la carpeta "dist/" al directorio público de su servidor web
-(por ejemplo, /var/www/html/ en Nginx/Apache) y configure la redirección SPA hacia
-index.html para el soporte de rutas de React Router.
 
 --------------------------------------------------------------------------------
-4. CREDENCIALES DE PRUEBA PARA EL MODAL DE LOGIN Y RUTAS PRIVADAS (FASE I)
+3. CREDENCIALES DE PRUEBA PARA EL MODAL DE LOGIN Y RUTAS PRIVADAS (FASE I)
 --------------------------------------------------------------------------------
 Para verificar la protección de rutas privadas y desplegar el "Menú de Rutas
 Privadas" en la barra de navegación superior fija:

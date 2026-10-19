@@ -26,10 +26,10 @@ import prodBarraEsmeralda from '../multimedia/imagenes/prod_barra_esmeralda.png'
 import origenCacaoImg from '../multimedia/imagenes/origen_cacao.png';
 import procesoArtesanalImg from '../multimedia/imagenes/proceso_artesanal.png';
 
-import fotoAlejandro from '../multimedia/imagenes/miembro_alejandro.png';
-import fotoJhon from '../multimedia/imagenes/miembro_jhon.png';
-import fotoJesus from '../multimedia/imagenes/miembro_jesus.png';
-import fotoDeissy from '../multimedia/imagenes/miembro_deissy.png';
+import fotoAlejandro from '../multimedia/imagenes/miembro_alejandro.jpeg';
+import fotoJhon from '../multimedia/imagenes/miembro_jhon.jpeg';
+import fotoJesus from '../multimedia/imagenes/miembro_jesus.jpg';
+import fotoDeissy from '../multimedia/imagenes/miembro_deissy.jpeg';
 
 // Exportación de recursos multimedia generales
 export const MULTIMEDIA_ASSETS = {
@@ -210,10 +210,10 @@ export const EQUIPO_DESARROLLO = [
     id: 1,
     nombre: 'Alejandro Sanabria Zúñiga',
     rol: 'Líder de Grupo & Arquitecto Backend',
-    codigo: '2201845',
+    codigo: '2240051',
     programa: 'Ingeniería de Sistemas e Informática - UIS',
-    semestre: 'Octavo Semestre',
-    correo: 'alejandro.sanabria@correo.uis.edu.co',
+    semestre: 'Sexto Semestre',
+    correo: 'alejandro2240051@correo.uis.edu.co',
     telefono: '+57 315 489 2011',
     foto: fotoAlejandro,
     aportes: 'Coordinación general del proyecto ChocoArtisan, gestión del repositorio en GitHub, diseño de la arquitectura de rutas protegidas, modelo de datos y estructura de órdenes.'
@@ -222,10 +222,10 @@ export const EQUIPO_DESARROLLO = [
     id: 2,
     nombre: 'Jhon Bayron Cárdenas Camacho',
     rol: 'Diseñador UI/UX & Maquetación Responsiva',
-    codigo: '2201932',
+    codigo: '2244677',
     programa: 'Ingeniería de Sistemas e Informática - UIS',
-    semestre: 'Octavo Semestre',
-    correo: 'jhon.cardenas@correo.uis.edu.co',
+    semestre: 'Sexto Semestre',
+    correo: 'jhon2244677@correo.uis.edu.co',
     telefono: '+57 316 742 8830',
     foto: fotoJhon,
     aportes: 'Maquetación HTML5/CSS3 con paleta corporativa inspirada en el cacao (#3E2723, #FFF8E1, #D4AF37), diseño a tres columnas, Responsive Design y formulario de despacho.'
@@ -234,10 +234,10 @@ export const EQUIPO_DESARROLLO = [
     id: 3,
     nombre: 'Jesús David Parada Palencia',
     rol: 'Desarrollador Frontend React & Carrito Dinámico',
-    codigo: '2202104',
+    codigo: '2240090',
     programa: 'Ingeniería de Sistemas e Informática - UIS',
-    semestre: 'Octavo Semestre',
-    correo: 'jesus.parada@correo.uis.edu.co',
+    semestre: 'Sexto Semestre',
+    correo: 'jesus2240090@correo.uis.edu.co',
     telefono: '+57 318 591 4402',
     foto: fotoJesus,
     aportes: 'Desarrollo de componentes interactivos en React, lógica del Carrito de Compras en tiempo real, cálculo automatizado de Subtotal, IVA (19%), envío dinámico y cupones.'
@@ -246,10 +246,10 @@ export const EQUIPO_DESARROLLO = [
     id: 4,
     nombre: 'Deissy Liliana Romero Prada',
     rol: 'Especialista en Seguridad, Captcha & Configurador 3D/2D',
-    codigo: '2201768',
+    codigo: '2235603',
     programa: 'Ingeniería de Sistemas e Informática - UIS',
-    semestre: 'Octavo Semestre',
-    correo: 'deissy.romero@correo.uis.edu.co',
+    semestre: 'Sexto Semestre',
+    correo: 'deissy2235603@correo.uis.edu.co',
     telefono: '+57 317 620 9155',
     foto: fotoDeissy,
     aportes: 'Implementación del módulo de Registro de Clientes con validación de complejidad de contraseñas, filtro Captcha anti-bots y el configurador novedoso "Crea tu Caja de Chocolates Personalizada".'
