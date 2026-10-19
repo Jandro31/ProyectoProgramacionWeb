@@ -16,42 +16,48 @@
 }
 
 .hero-banner-img {
+  display: block;
   width: 100%;
-  max-height: 440px;
-  object-fit: cover;
-  filter: brightness(0.88);
+  height: auto;
+  max-height: none;
+  filter: none;
 }
 
 .hero-overlay-content {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(90deg, rgba(30, 15, 12, 0.92) 0%, rgba(45, 24, 20, 0.72) 58%, rgba(30, 15, 12, 0.25) 100%);
+  position: static;
+  background: linear-gradient(180deg, #261512 0%, #3E2723 100%);
+  border-top: 2px solid #D4AF37;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  padding: 2.5rem 3.5rem;
+  padding: 1.75rem 3rem 2rem;
 }
 
 /* Carrusel Promocional */
 .promo-carousel-wrapper {
-  border-radius: 16px;
-  overflow: hidden;
-  border: 2px solid #D4AF37;
-  box-shadow: 0 10px 28px rgba(62, 39, 35, 0.22);
+  container-type: inline-size;
+  /* permite calcular el alto de las flechas */
 }
 
 .promo-carousel-img {
-  height: 360px;
-  object-fit: cover;
-  filter: brightness(0.82);
+  display: block;
+  width: 100%;
+  height: auto;
+  filter: none;
 }
 
 .promo-carousel-caption {
-  background: rgba(38, 21, 18, 0.85);
-  border: 1px solid #D4AF37;
-  border-radius: 12px;
-  padding: 1.25rem 1.75rem;
-  backdrop-filter: blur(4px);
+  position: static;
+  background: #261512;
+  border-top: 2px solid #D4AF37;
+  border-radius: 0;
+  padding: 1.25rem 1.75rem 2.75rem;
+  /* espacio abajo para los puntitos */
+  text-align: left;
+}
+
+.promo-carousel-wrapper .carousel-control-prev,
+.promo-carousel-wrapper .carousel-control-next {
+  height: calc(100cqw * 520 / 1200);
 }
 
 /* ==========================================================================
@@ -170,11 +176,8 @@
 
 @media (max-width: 767.98px) {
   .hero-overlay-content {
-    position: static;
-    background: #261512;
-    padding: 1.5rem;
-  }
-  .promo-carousel-img {
-    height: 250px;
+    padding: 1.25rem 1.25rem 1.5rem;
   }
 }
+
+

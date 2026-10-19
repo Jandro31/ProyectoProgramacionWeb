@@ -101,10 +101,14 @@ function NavbarChoco({
                 <NavDropdown.Item as={Link} to="/carrito-despacho">
                   🛒 Carrito Interactivo y Despacho ({cartCount})
                 </NavDropdown.Item>
-                <NavDropdown.Divider />
-                <NavDropdown.Item as={Link} to="/panel-admin">
-                  📊 Panel de Órdenes e Inventario (Admin)
-                </NavDropdown.Item>
+                {currentUser?.tipo === 'admin' && (
+                  <>
+                    <NavDropdown.Divider />
+                    <NavDropdown.Item as={Link} to="/panel-admin">
+                      📊 Panel de Órdenes e Inventario (Admin)
+                    </NavDropdown.Item>
+                  </>
+                )}
               </NavDropdown>
             )}
           </Nav>

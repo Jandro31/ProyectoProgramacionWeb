@@ -67,6 +67,10 @@ function RegistroPage({ onRegisterUser, onOpenLoginModal }) {
     e.preventDefault();
     setErrorMsg('');
     setSuccessMsg('');
+    if (['admin', 'cliente'].includes(username.trim().toLowerCase())) {
+      setErrorMsg('Ese nombre de usuario está reservado. Elija otro.');
+      return;
+    }
 
     if (passedRulesCount < 4) {
       setErrorMsg(
