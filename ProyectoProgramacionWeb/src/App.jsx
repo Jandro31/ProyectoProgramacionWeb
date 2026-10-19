@@ -8,7 +8,7 @@
  * Registro de Clientes con Captcha y Órdenes de Despacho.
  */
 
-import React, { useState, useCallback } from 'react';
+import React, { useState, useCallback, useEffect } from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { Toast, ToastContainer } from 'react-bootstrap';
 
@@ -26,10 +26,20 @@ import FooterChoco from './components/FooterChoco';
 
 import { PRODUCTOS_CATALOGO } from './data/chocoData';
 
+// Lee un valor guardado en sessionStorage (con protección ante errores)
+const cargarDeSesion = (clave, porDefecto) => {
+  try {
+    const guardado = sessionStorage.getItem(clave);
+    return guardado ? JSON.parse(guardado) : porDefecto;
+  } catch {
+    return porDefecto;
+  }
+};
+
 function App() {
   // Estado de autenticación (simulación Fase I con Admin | 1234)
-  const [isAuthenticated, setIsAuthenticated] = useState(false);
-  const [currentUser, setCurrentUser] = useState(null);
+  const [currentUser, setCurrentUser] = useState(() => cargarDeSesion('choco_usuario', null));
+  const isAuthenticated = currentUser !== null;
   const [showLoginModal, setShowLoginModal] = useState(false);
   const [authNotice, setAuthNotice] = useState('');
 
@@ -43,7 +53,7 @@ function App() {
   ]);
 
   // Usuarios registrados en el módulo con validación de contraseña y Captcha
-  const [registeredUsers, setRegisteredUsers] = useState([]);
+  const [registeredUsers, setRegisteredUsers] = useState(() => cargarDeSesion('choco_registrados', []));
 
   // Historial de órdenes procesadas en la sesión
   const [orders, setOrders] = useState([
@@ -65,6 +75,23 @@ function App() {
   // Notificación flotante al añadir productos al carrito
   const [toastMsg, setToastMsg] = useState('');
 
+  // Persistencia: la sesión sobrevive a F5 y se borra al cerrar la pestaña
+  useEffect(() => {
+    try {
+      if (currentUser) sessionStorage.setItem('choco_usuario', JSON.stringify(currentUser));
+      else sessionStorage.removeItem('choco_usuario');
+    } catch { /* sin almacenamiento disponible */ }
+  }, [currentUser]);
+
+  useEffect(() => {
+    try {
+      sessionStorage.setItem('choco_registrados', JSON.stringify(registeredUsers));
+    } catch { /* sin almacenamiento disponible */ }
+  }, [registeredUsers]);
+
+  // Aviso cuando un usuario autenticado intenta entrar a una ruta sin permiso
+  const handleAccessDenied = useCallback((msg) => setToastMsg(msg), []);
+
   // Abre el Modal de Login con un mensaje opcional (ej: bloqueo de puerta trasera)
   const handleOpenLoginModal = useCallback((notice = '') => {
     setAuthNotice(notice);
@@ -73,7 +100,6 @@ function App() {
 
   // Se ejecuta cuando el usuario ingresa credenciales válidas (Ej: Admin | 1234)
   const handleLoginSuccess = (userData) => {
-    setIsAuthenticated(true);
     setCurrentUser(userData);
     setShowLoginModal(false);
     setAuthNotice('');
@@ -84,7 +110,6 @@ function App() {
 
   // Cierra la sesión actual y oculta las rutas privadas
   const handleLogout = () => {
-    setIsAuthenticated(false);
     setCurrentUser(null);
     setToastMsg('🔒 Sesión finalizada. Las rutas privadas han sido protegidas.');
   };
@@ -222,7 +247,10 @@ function App() {
             element={
               <ProtectedRoute
                 isAuthenticated={isAuthenticated}
+                currentUser={currentUser}
+                allowedRoles={['admin']}
                 onRequireLogin={handleOpenLoginModal}
+                onAccessDenied={handleAccessDenied}
               >
                 <PanelAdminPage
                   currentUser={currentUser}

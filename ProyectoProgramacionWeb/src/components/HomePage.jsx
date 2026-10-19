@@ -97,19 +97,7 @@ function HomePage({
           className="hero-banner-img"
         />
         <div className="hero-overlay-content">
-          <Badge
-            bg="warning"
-            text="dark"
-            className="mb-2 align-self-start px-3 py-2 fw-bold"
-          >
-            ✦ CACAO FINO DE AROMA 100% SANTANDEREANO ✦
-          </Badge>
-          <h1
-            className="display-5 fw-bold mb-2"
-            style={{ color: '#FFF8E1', fontFamily: 'Georgia, serif' }}
-          >
-            El Arte del Chocolate Artesanal
-          </h1>
+        
           <p
             className="lead mb-4"
             style={{ color: '#F5E6B3', maxWidth: '620px' }}

@@ -1,27 +1,37 @@
 /**
  * @file ProtectedRoute.jsx
- * @description Componente de protección de Rutas Privadas en React Router.
- * Cumple el requisito estricto: "El sitio no debe permitir entradas por puertas traseras,
- * este objetivo se logra implementando rutas".
- * Si un usuario no autenticado intenta ingresar escribiendo la URL privada directamente,
- * es redirigido de inmediato a la portada ("/") y se despliega el Modal de Login.
+ * @description Guardia de Rutas Privadas. Verifica (1) que exista sesión y
+ * (2) opcionalmente que el rol del usuario esté en `allowedRoles`.
+ * Sin sesión -> portada + Modal de Login. Con sesión pero sin permiso -> portada + aviso.
  */
 
 import React, { useEffect } from 'react';
 import { Navigate, useLocation } from 'react-router-dom';
 
-function ProtectedRoute({ isAuthenticated, onRequireLogin, children }) {
+function ProtectedRoute({
+  isAuthenticated,
+  currentUser,
+  allowedRoles,
+  onRequireLogin,
+  onAccessDenied,
+  children
+}) {
   const location = useLocation();
+  const hasRole = !allowedRoles || allowedRoles.includes(currentUser?.tipo);
 
   useEffect(() => {
     if (!isAuthenticated && onRequireLogin) {
       onRequireLogin(
-        `Acceso restringido a la ruta privada "${location.pathname}". Se ha bloqueado el ingreso directo (puerta trasera). Por favor inicie sesión con Admin | 1234.`
+        `Acceso restringido a la ruta privada "${location.pathname}". Se ha bloqueado el ingreso directo (puerta trasera). Por favor inicie sesión.`
+      );
+    } else if (isAuthenticated && !hasRole && onAccessDenied) {
+      onAccessDenied(
+        `⛔ Acceso denegado a "${location.pathname}": requiere rol de Administrador.`
       );
     }
-  }, [isAuthenticated, location.pathname, onRequireLogin]);
+  }, [isAuthenticated, hasRole, location.pathname, onRequireLogin, onAccessDenied]);
 
-  if (!isAuthenticated) {
+  if (!isAuthenticated || !hasRole) {
     return <Navigate to="/" replace />;
   }
 

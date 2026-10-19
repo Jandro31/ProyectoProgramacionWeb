@@ -11,6 +11,12 @@ import React, { useState } from 'react';
 import { Modal, Button, Alert, Badge } from 'react-bootstrap';
 import Form from 'react-bootstrap/Form';
 
+// Usuarios fijos de prueba (Fase I, sin base de datos)
+const USUARIOS_FIJOS = [
+  { username: 'Admin',   password: '1234',      tipo: 'admin',   role: 'Administrador General' },
+  { username: 'Cliente', password: 'Cliente1!', tipo: 'cliente', role: 'Cliente VIP ChocoArtisan' }
+];
+
 function LoginModal({
   show,
   onHide,
@@ -23,41 +29,54 @@ function LoginModal({
   const [errorMsg, setErrorMsg] = useState('');
 
   // Función que procesa el envío del formulario de Login
-  const handleSubmit = (e) => {
+    const handleSubmit = (e) => {
     e.preventDefault();
     setErrorMsg('');
 
     const cleanUser = username.trim();
     const cleanPass = password.trim();
 
-    // Verificación con usuario de prueba por defecto exigido en Fase I: Admin | 1234
-    if (
-      (cleanUser.toLowerCase() === 'admin' && cleanPass === '1234') ||
-      registeredUsers.some(
-        (u) =>
-          (u.username.toLowerCase() === cleanUser.toLowerCase() ||
-            u.email.toLowerCase() === cleanUser.toLowerCase()) &&
-          u.password === cleanPass
-      )
-    ) {
+    // 1) Usuarios fijos (Admin | Cliente)
+    const fijo = USUARIOS_FIJOS.find(
+      (u) => u.username.toLowerCase() === cleanUser.toLowerCase() && u.password === cleanPass
+    );
+
+    // 2) Usuarios creados en el módulo de Registro (siempre son clientes)
+    const registrado = registeredUsers.find(
+      (u) =>
+        (u.username.toLowerCase() === cleanUser.toLowerCase() ||
+          u.email.toLowerCase() === cleanUser.toLowerCase()) &&
+        u.password === cleanPass
+    );
+
+    const acceso =
+      fijo ||
+      (registrado && {
+        username: registrado.username,
+        tipo: 'cliente',
+        role: 'Cliente VIP ChocoArtisan'
+      });
+
+    if (acceso) {
       onLoginSuccess({
-        username: cleanUser === 'admin' ? 'Admin' : cleanUser,
-        role: cleanUser.toLowerCase() === 'admin' ? 'Administrador General' : 'Cliente VIP ChocoArtisan',
+        username: acceso.username,
+        tipo: acceso.tipo,
+        role: acceso.role,
         loginTime: new Date().toLocaleTimeString()
       });
       setUsername('');
       setPassword('');
     } else {
       setErrorMsg(
-        'Credenciales inválidas. Por favor utilice el usuario de prueba "Admin" y passwd "1234", o regístrese previamente.'
+        'Credenciales inválidas. Use Admin | 1234, Cliente | Cliente1! o regístrese previamente.'
       );
     }
   };
 
   // Permite rellenar rápidamente las credenciales de prueba Admin | 1234
-  const fillDemoCredentials = () => {
-    setUsername('Admin');
-    setPassword('1234');
+  const fillDemoCredentials = (tipo = 'admin') => {
+    setUsername(tipo === 'admin' ? 'Admin' : 'Cliente');
+    setPassword(tipo === 'admin' ? '1234' : 'Cliente1!');
     setErrorMsg('');
   };
 
@@ -95,14 +114,14 @@ function LoginModal({
               </Badge>
               <Badge bg="secondary">passwd: 1234</Badge>
             </div>
-            <Button
-              variant="outline-dark"
-              size="sm"
-              type="button"
-              onClick={fillDemoCredentials}
-            >
-              ⚡ Autocompletar Admin | 1234
+            <div className="d-flex gap-2 flex-wrap">
+            <Button variant="outline-dark" size="sm" type="button" onClick={() => fillDemoCredentials('admin')}>
+              ⚡ Admin | 1234
             </Button>
+            <Button variant="outline-dark" size="sm" type="button" onClick={() => fillDemoCredentials('cliente')}>
+              ⚡ Cliente | Cliente1!
+            </Button>
+          </div>
           </div>
         </div>
 
