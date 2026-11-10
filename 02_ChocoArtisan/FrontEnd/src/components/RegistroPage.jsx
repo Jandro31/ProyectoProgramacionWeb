@@ -1,14 +1,8 @@
 /**
  * @file RegistroPage.jsx
  * @description Módulo de Registro de Clientes con Validación de Fortaleza de Contraseña
- * y Captcha Interactivo Anti-Bots (Funcionalidad Obligatoria del Proyecto).
+ * y Captcha Interactivo Anti-Bots.
  * Utiliza explícitamente `import Form from 'react-bootstrap/Form';`.
- * Valida en tiempo real:
- * 1. Mínimo 8 caracteres
- * 2. Al menos una letra mayúscula
- * 3. Al menos un número
- * 4. Al menos un carácter especial
- * 5. Verificación de código Captcha alfanumérico + reto visual
  */
 
 import React, { useState } from 'react';
@@ -63,10 +57,11 @@ function RegistroPage({ onRegisterUser, onOpenLoginModal }) {
     setCaptchaInput('');
   };
 
-  const handleRegisterSubmit = (e) => {
+  const handleRegisterSubmit = async (e) => {
     e.preventDefault();
     setErrorMsg('');
     setSuccessMsg('');
+
     if (['admin', 'cliente'].includes(username.trim().toLowerCase())) {
       setErrorMsg('Ese nombre de usuario está reservado. Elija otro.');
       return;
@@ -92,26 +87,54 @@ function RegistroPage({ onRegisterUser, onOpenLoginModal }) {
       return;
     }
 
-    // Registrar el usuario en el estado global de la aplicación
-    onRegisterUser({
-      nombre,
-      username,
-      email,
-      password,
-      fechaRegistro: new Date().toLocaleDateString()
-    });
+    try {
+      // Petición POST directa al puerto 5000 del backend para evitar fallos de proxy
+      const response = await fetch('http://localhost:5000/api/auth/register', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          nombre,
+          username,
+          email,
+          password,
+          fechaRegistro: new Date().toLocaleDateString()
+        }),
+      });
 
-    setSuccessMsg(
-      `¡Cuenta creada exitosamente para "${username}"! Ya puedes iniciar sesión en el Modal de Login para desplegar el Menú de Rutas Privadas.`
-    );
-    setNombre('');
-    setUsername('');
-    setEmail('');
-    setPassword('');
-    setConfirmPassword('');
-    setCaptchaInput('');
-    setHumanCheck(false);
-    refreshCaptcha();
+      const data = await response.json();
+
+      if (!response.ok) {
+        throw new Error(data.message || 'Error al registrar el usuario en el servidor.');
+      }
+
+      if (onRegisterUser) {
+        onRegisterUser({
+          nombre,
+          username,
+          email,
+          password,
+          fechaRegistro: new Date().toLocaleDateString()
+        });
+      }
+
+      setSuccessMsg(
+        `¡Cuenta creada exitosamente para "${username}" y guardada en la base de datos! Ya puedes iniciar sesión en el Modal de Login.`
+      );
+      
+      setNombre('');
+      setUsername('');
+      setEmail('');
+      setPassword('');
+      setConfirmPassword('');
+      setCaptchaInput('');
+      setHumanCheck(false);
+      refreshCaptcha();
+
+    } catch (error) {
+      setErrorMsg(error.message || 'No se pudo conectar con el servidor backend.');
+    }
   };
 
   return (

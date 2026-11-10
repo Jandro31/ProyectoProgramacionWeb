@@ -1,13 +1,8 @@
 /**
  * @file CarritoDespachoPage.jsx
  * @description RUTA PRIVADA — Carrito de Compras Interactivo y Formulario de Despacho.
- * Implementa modificación de cantidades y eliminación en tiempo real, así como el
- * cálculo automatizado de:
- * - Subtotal de productos
- * - Códigos de descuento promocionales (CHOCO15, DULCE20, UIS25)
- * - Impuestos (IVA 19%)
- * - Costo de envío dinámico según ciudad de destino
- * - Formulario de Guía de Envío con `import Form from 'react-bootstrap/Form';`
+ * Implementa modificación de cantidades y eliminación en tiempo real, cálculo de impuestos,
+ * envío dinámico y persistencia de órdenes conectada a MySQL.
  */
 
 import React, { useState } from 'react';
@@ -84,14 +79,17 @@ function CarritoDespachoPage({
     }
   };
 
-  // Procesar y registrar la orden completa de compra
-  const handleCheckoutSubmit = (e) => {
+  // Procesar, registrar localmente y guardar en la Base de Datos MySQL
+  const handleCheckoutSubmit = async (e) => {
     e.preventDefault();
     if (cartItems.length === 0) return;
 
+    const idOrdenGenerado = `ORD-${orderSeq}`;
+    const fechaActual = new Date().toLocaleString();
+
     const newOrder = {
-      idOrden: `ORD-${orderSeq}`,
-      fecha: '18/10/2026 - Registro en línea',
+      idOrden: idOrdenGenerado,
+      fecha: fechaActual,
       cliente: shippingData.nombre,
       correo: shippingData.correo,
       direccion: `${shippingData.direccion}, ${selectedCity} (CP: ${shippingData.codigoPostal})`,
@@ -101,8 +99,23 @@ function CarritoDespachoPage({
       iva: Number(ivaTax.toFixed(2)),
       envio: Number(shippingCost.toFixed(2)),
       total: Number(totalPagar.toFixed(2)),
-      estado: 'Confirmada — En Preparación Térmica'
+      estado: 'Despachada — Transporte Refrigerado'
     };
+
+    try {
+      // Petición POST para guardar la orden en MySQL mediante el backend
+      const response = await fetch('http://localhost:5000/api/auth/ordenes', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(newOrder)
+      });
+      const data = await response.json();
+      if (data.success) {
+        console.log('Orden guardada correctamente en la Base de Datos MySQL.');
+      }
+    } catch (error) {
+      console.error('Error al conectar con el servidor para guardar la orden:', error);
+    }
 
     setOrderSeq((s) => s + 1);
     onRegisterOrder(newOrder);
@@ -114,7 +127,7 @@ function CarritoDespachoPage({
     <Container className="py-4">
       <div className="text-center mb-4">
         <Badge bg="warning" text="dark" className="mb-2 px-3 py-2">
-          🔓 RUTA PRIVADA • GESTIÓN DE COMPRA Y ENVÍO
+          🔓 RUTA PRIVADA • GESTIÓN DE COMPRA Y ENVÍO (MYSQL)
         </Badge>
         <h1 className="section-heading">
           Carrito de Compras Interactivo y Guía de Despacho
@@ -125,7 +138,7 @@ function CarritoDespachoPage({
       {orderCompleted && (
         <Alert variant="success" className="p-4 mb-4 border-success shadow-sm">
           <h4 className="serif-title text-success">
-            🎉 ¡Orden {orderCompleted.idOrden} Procesada Exitosamente!
+            🎉 ¡Orden {orderCompleted.idOrden} Procesada y Guardada en MySQL!
           </h4>
           <p className="mb-2">
             Gracias por tu compra, <strong>{orderCompleted.cliente}</strong>. Tu

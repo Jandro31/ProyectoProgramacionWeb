@@ -1,9 +1,6 @@
 /**
  * @file NavbarChoco.jsx
  * @description Barra de navegación superior fija (fixed="top") de ChocoArtisan.
- * Implementa menús principales, submenús desplegables (Dropdown de React-Bootstrap)
- * y despliega dinámicamente el "Menú de Rutas Privadas" únicamente cuando el
- * usuario se ha autenticado exitosamente en el Modal de Login (Ej: Admin | 1234).
  */
 
 import React from 'react';
@@ -22,7 +19,6 @@ function NavbarChoco({
 }) {
   const navigate = useNavigate();
 
-  // Maneja la selección de una subcategoría desde el Dropdown del menú fijo
   const handleCategoryClick = (categoria) => {
     if (onSelectCategory) {
       onSelectCategory(categoria);
@@ -79,13 +75,16 @@ function NavbarChoco({
               Nosotros
             </Nav.Link>
 
+            {/* Galería Bucaramanga (Express Static Requirement) */}
+            <Nav.Link as={NavLink} to="/bucaramanga" className="nav-link-choco">
+              📍 Bucaramanga
+            </Nav.Link>
+
             <Nav.Link as={NavLink} to="/registro" className="nav-link-choco">
               Registro
             </Nav.Link>
 
-            {/* ====================================================================
-                REQUISITO: Menú de Rutas Privadas (Se despliega SOLO tras Login exitoso)
-                ==================================================================== */}
+            {/* Menú de Rutas Privadas */}
             {isAuthenticated && (
               <NavDropdown
                 title="🔓 Menú Rutas Privadas"
@@ -93,7 +92,7 @@ function NavbarChoco({
                 className="private-menu-dropdown ms-lg-2"
               >
                 <NavDropdown.Header className="text-warning fw-bold">
-                  Zona Exclusiva Autenticada ({currentUser?.username})
+                  Zona Exclusiva ({currentUser?.username})
                 </NavDropdown.Header>
                 <NavDropdown.Item as={Link} to="/caja-personalizada">
                   🎁 Configurador Caja 3D/2D (Novedoso)
@@ -101,11 +100,19 @@ function NavbarChoco({
                 <NavDropdown.Item as={Link} to="/carrito-despacho">
                   🛒 Carrito Interactivo y Despacho ({cartCount})
                 </NavDropdown.Item>
+
+                {/* OPCIONES EXCLUSIVAS PARA EL ADMIN ABSOLUTO */}
                 {currentUser?.tipo === 'admin' && (
                   <>
                     <NavDropdown.Divider />
+                    <NavDropdown.Header className="text-danger fw-bold">
+                      ⚙️ Zona de Administrador
+                    </NavDropdown.Header>
+                    <NavDropdown.Item as={Link} to="/admin/usuarios">
+                      👥 Gestión CRUD de Usuarios
+                    </NavDropdown.Item>
                     <NavDropdown.Item as={Link} to="/panel-admin">
-                      📊 Panel de Órdenes e Inventario (Admin)
+                      📊 Panel de Órdenes e Inventario
                     </NavDropdown.Item>
                   </>
                 )}
@@ -115,7 +122,6 @@ function NavbarChoco({
 
           {/* Controles de Usuario, Carrito y Login Modal */}
           <div className="d-flex align-items-center gap-2 mt-3 mt-lg-0">
-            {/* Botón de acceso al Carrito (Ruta Privada protegida) */}
             <Button
               variant="outline-warning"
               size="sm"
@@ -124,7 +130,7 @@ function NavbarChoco({
                 if (isAuthenticated) {
                   navigate('/carrito-despacho');
                 } else {
-                  onOpenLoginModal('Para acceder al Carrito y Guía de Despacho debes autenticarte primero (Ej: Admin | 1234).');
+                  onOpenLoginModal('Para acceder al Carrito y Guía de Despacho debes autenticarte primero.');
                 }
               }}
             >

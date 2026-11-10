@@ -1,13 +1,12 @@
 /**
  * @file App.jsx
- * @description Componente raíz de la plataforma web ChocoArtisan (Fase I).
+ * @description Componente raíz de la plataforma web ChocoArtisan (Fase II).
  * Implementa el enrutador principal con `react-router-dom`, separando
  * estrictamente las Rutas Públicas de las Rutas Privadas mediante el guardia
  * `ProtectedRoute` para impedir accesos no autorizados por puertas traseras.
- * Gestiona el estado global del Carrito de Compras, Login Modal (Admin | 1234),
- * Registro de Clientes con Captcha y Órdenes de Despacho.
+ * Gestiona el estado global del Carrito de Compras, Login Modal,
+ * Registro de Clientes, Órdenes de Despacho y Panel CRUD de Administración.
  */
-
 import React, { useState, useCallback, useEffect } from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { Toast, ToastContainer } from 'react-bootstrap';
@@ -22,7 +21,10 @@ import RegistroPage from './components/RegistroPage';
 import CajaPersonalizadaPage from './components/CajaPersonalizadaPage';
 import CarritoDespachoPage from './components/CarritoDespachoPage';
 import PanelAdminPage from './components/PanelAdminPage';
+import AdminUsersPanel from './components/AdminUsersPanel'; // NUEVO: Panel CRUD de Usuarios
 import FooterChoco from './components/FooterChoco';
+import BucaramangaGallery from './components/BucaramangaGallery';
+import ChocoAssistantChat from './components/ChocoAssistantChat';
 
 import { PRODUCTOS_CATALOGO } from './data/chocoData';
 
@@ -37,7 +39,7 @@ const cargarDeSesion = (clave, porDefecto) => {
 };
 
 function App() {
-  // Estado de autenticación (simulación Fase I con Admin | 1234)
+  // Estado de autenticación
   const [currentUser, setCurrentUser] = useState(() => cargarDeSesion('choco_usuario', null));
   const isAuthenticated = currentUser !== null;
   const [showLoginModal, setShowLoginModal] = useState(false);
@@ -46,13 +48,13 @@ function App() {
   // Categoría activa del catálogo seleccionada desde el menú o la página
   const [selectedCategory, setSelectedCategory] = useState('Todas');
 
-  // Carrito de compras inicializado con 2 creaciones gourmet de muestra
+  // Carrito de compras inicializado con creaciones gourmet de muestra
   const [cartItems, setCartItems] = useState([
     { ...PRODUCTOS_CATALOGO[0], cantidad: 1 },
     { ...PRODUCTOS_CATALOGO[1], cantidad: 2 }
   ]);
 
-  // Usuarios registrados en el módulo con validación de contraseña y Captcha
+  // Usuarios registrados en el módulo local
   const [registeredUsers, setRegisteredUsers] = useState(() => cargarDeSesion('choco_registrados', []));
 
   // Historial de órdenes procesadas en la sesión
@@ -92,19 +94,19 @@ function App() {
   // Aviso cuando un usuario autenticado intenta entrar a una ruta sin permiso
   const handleAccessDenied = useCallback((msg) => setToastMsg(msg), []);
 
-  // Abre el Modal de Login con un mensaje opcional (ej: bloqueo de puerta trasera)
+  // Abre el Modal de Login con un mensaje opcional
   const handleOpenLoginModal = useCallback((notice = '') => {
     setAuthNotice(notice);
     setShowLoginModal(true);
   }, []);
 
-  // Se ejecuta cuando el usuario ingresa credenciales válidas (Ej: Admin | 1234)
+  // Se ejecuta cuando el usuario ingresa credenciales válidas
   const handleLoginSuccess = (userData) => {
     setCurrentUser(userData);
     setShowLoginModal(false);
     setAuthNotice('');
     setToastMsg(
-      `🔓 ¡Bienvenido, ${userData.username}! Se ha desplegado el Menú de Rutas Privadas en la barra superior.`
+      `🔓 ¡Bienvenido, ${userData.username}! Sesión iniciada correctamente.`
     );
   };
 
@@ -153,7 +155,7 @@ function App() {
     setCartItems([]);
   };
 
-  // Registra un nuevo cliente verificado con Captcha
+  // Registra un nuevo cliente
   const handleRegisterUser = (newUser) => {
     setRegisteredUsers((prev) => [...prev, newUser]);
   };
@@ -167,7 +169,7 @@ function App() {
 
   return (
     <BrowserRouter>
-      {/* Barra de Navegación Fija independiente de la página invocada */}
+      {/* Barra de Navegación Fija */}
       <NavbarChoco
         isAuthenticated={isAuthenticated}
         currentUser={currentUser}
@@ -202,6 +204,7 @@ function App() {
             }
           />
           <Route path="/nosotros" element={<NosotrosPage />} />
+          <Route path="/bucaramanga" element={<BucaramangaGallery />} />
           <Route
             path="/registro"
             element={
@@ -212,7 +215,7 @@ function App() {
             }
           />
 
-          {/* ================= RUTAS PRIVADAS (SIN PUERTAS TRASERAS) ================= */}
+          {/* ================= RUTAS PRIVADAS ================= */}
           <Route
             path="/caja-personalizada"
             element={
@@ -261,12 +264,28 @@ function App() {
             }
           />
 
-          {/* Cualquier URL desconocida o intento inválido redirige a la portada */}
+          {/* NUEVA RUTA PROTEGIDA: Panel CRUD de Usuarios (Exclusivo Administrador) */}
+          <Route
+            path="/admin/usuarios"
+            element={
+              <ProtectedRoute
+                isAuthenticated={isAuthenticated}
+                currentUser={currentUser}
+                allowedRoles={['admin']}
+                onRequireLogin={handleOpenLoginModal}
+                onAccessDenied={handleAccessDenied}
+              >
+                <AdminUsersPanel />
+              </ProtectedRoute>
+            }
+          />
+
+          {/* Cualquier URL desconocida redirige a la portada */}
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </main>
 
-      {/* Modal de Login con patrón usuario: Admin | passwd: 1234 */}
+      {/* Modal de Login */}
       <LoginModal
         show={showLoginModal}
         onHide={() => setShowLoginModal(false)}
@@ -275,7 +294,7 @@ function App() {
         registeredUsers={registeredUsers}
       />
 
-      {/* Notificaciones flotantes de retroalimentación visual */}
+      {/* Notificaciones flotantes */}
       <ToastContainer position="bottom-end" className="p-3" style={{ zIndex: 1080 }}>
         <Toast
           show={Boolean(toastMsg)}
@@ -294,7 +313,10 @@ function App() {
         </Toast>
       </ToastContainer>
 
-      {/* Pie de Página con Contáctenos (4 integrantes con Modal + Foto) y Redes Sociales */}
+      {/* Asistente Virtual ChocoBot */}
+      <ChocoAssistantChat />
+
+      {/* Pie de Página */}
       <FooterChoco />
     </BrowserRouter>
   );
