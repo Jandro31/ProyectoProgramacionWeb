@@ -45,9 +45,9 @@ PASO A PASO PARA LEVANTAR EL PROYECTO:
 1. CONFIGURACIÓN DE LA BASE DE DATOS (XAMPP):
    - Abre el panel de control de XAMPP e inicia los servicios de Apache y MySQL.
    - Abre tu navegador y accede a phpMyAdmin: http://localhost/phpmyadmin/
-   - Crea una base de datos nueva con el nombre exacto: chocoartisan
+   - Crea una base de datos nueva con el nombre exacto: choco_artisan_db
    - Selecciona la base de datos creada, ve a la pestaña "Importar", selecciona 
-     el archivo de respaldo proporcionado (`choco_artisan_db.sql`) ubicado en la 
+     el archivo de respaldo proporcionado (`choco_artisan_bd.sql`) ubicado en la 
      raíz del proyecto o carpeta de respaldos, y haz clic en "Continuar". 
      (Esto montará automáticamente las tablas de usuarios y órdenes con sus 
      datos iniciales).
@@ -56,6 +56,10 @@ PASO A PASO PARA LEVANTAR EL PROYECTO:
    - Abre una terminal en la carpeta del servidor (backend).
    - Instala las dependencias necesarias ejecutando:
      npm install
+   - ejecutar en phpmyadmin:
+	CREATE USER IF NOT EXISTS 'un_usr'@'localhost' IDENTIFIED BY 'una_clave';
+	GRANT ALL PRIVILEGES ON choco_artisan_db.* TO 'un_usr'@'localhost';
+	FLUSH PRIVILEGES;
    - Inicia el servidor backend ejecutando:
      node index.js
    - El servidor correrá por defecto en: http://localhost:5000
