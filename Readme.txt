@@ -1,9 +1,7 @@
-================================================================================
-PROYECTO DE PROGRAMACIÓN WEB — FASE I (REACT JS)
-APLICATIVO: 02_ChocoArtisan (Plataforma Web Corporativa y Tienda en Línea)
-UNIVERSIDAD INDUSTRIAL DE SANTANDER (UIS) — FACULTAD DE INGENIERÍA
-DOCENTE: Ing. Manuel Florez
-================================================================================
+========================================================================
+         PROYECTO ACADÉMICO: CHOCOARTISAN — FASE II
+     Plataforma Web Full-Stack para Chocolatería Artesanal
+========================================================================
 
 INTEGRANTES DEL EQUIPO (GRUPO 02):
 1. Alejandro Sanabria Zúñiga (Líder de Grupo)
@@ -11,67 +9,73 @@ INTEGRANTES DEL EQUIPO (GRUPO 02):
 3. Jesús David Parada Palencia
 4. Deissy Liliana Romero Prada
 
---------------------------------------------------------------------------------
-1. REQUISITOS PREVIOS DEL SISTEMA
---------------------------------------------------------------------------------
-Para ejecutar este aplicativo React en un computador local o servidor, asegúrese
-de tener instalado:
-- Node.js (versión 18.0.0 o superior recomendada). Verificar con:
-    node -v
-- Gestor de paquetes npm (incluido con Node.js). Verificar con:
-    npm -v
-- Navegador web moderno (Google Chrome, Mozilla Firefox, Microsoft Edge o Safari).
+------------------------------------------------------------------------
+1. DESCRIPCIÓN GENERAL DEL SISTEMA
+------------------------------------------------------------------------
+ChocoArtisan es una aplicación web full-stack diseñada para la gestión 
+integral de una empresa de chocolatería artesanal. Cuenta con un catálogo
+interactivo, un configurador de cajas 3D/2D, un asistente virtual inteligente
+(ChocoBot integrado con Groq/IA), un carrito de compras con cálculo dinámico
+de IVA (19%), cupones de descuento y tarifas de envío por ciudades, además 
+de un panel administrativo con rutas protegidas y control CRUD completo 
+conectado a una base de datos relacional MySQL.
 
---------------------------------------------------------------------------------
-2. PASO A PASO PARA IMPLEMENTAR Y EJECUTAR EL APP EN EL COMPUTADOR LOCAL
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
+2. TECNOLOGÍAS UTILIZADAS
+------------------------------------------------------------------------
+- Frontend: React.js, React Router, Vite, Bootstrap, React-Bootstrap.
+- Backend: Node.js, Express.js, RESTful API.
+- Base de Datos: MySQL (XAMPP Server).
+- Inteligencia Artificial: API de Groq (Modelo GPT-OSS 20B).
 
-PASO 1: Descomprimir o ubicar la carpeta del aplicativo
-Abra una terminal (Consola / PowerShell / Bash) e ingrese a la carpeta del
-proyecto React:
+------------------------------------------------------------------------
+3. CREDENCIALES DE ACCESO (ADMINISTRADOR)
+------------------------------------------------------------------------
+El sistema cuenta con auto-aprovisionamiento de seguridad al arrancar.
+- Usuario por defecto: admin
+- Contraseña:          admin123
+- Rol en el Sistema:   admin (Acceso total al Panel Administrativo y CRUD)
 
-    cd 02_ChocoArtisan
+------------------------------------------------------------------------
+4. INSTRUCTIVO DE INSTALACIÓN Y EJECUCIÓN (DESDE CERO O EN NUEVA PC)
+------------------------------------------------------------------------
 
-PASO 2: Instalar las dependencias del proyecto (node_modules)
-Dado que la entrega Fase-I se distribuye sin la carpeta "node_modules", ejecute
-el siguiente comando para descargar e instalar automáticamente React, React Router,
-React-Bootstrap y Bootstrap desde el archivo package.json:
+PASO A PASO PARA LEVANTAR EL PROYECTO:
 
-    npm install
+1. CONFIGURACIÓN DE LA BASE DE DATOS (XAMPP):
+   - Abre el panel de control de XAMPP e inicia los servicios de Apache y MySQL.
+   - Abre tu navegador y accede a phpMyAdmin: http://localhost/phpmyadmin/
+   - Crea una base de datos nueva con el nombre exacto: chocoartisan
+   - Selecciona la base de datos creada, ve a la pestaña "Importar", selecciona 
+     el archivo de respaldo proporcionado (`chocoartisan.sql`) ubicado en la 
+     raíz del proyecto o carpeta de respaldos, y haz clic en "Continuar". 
+     (Esto montará automáticamente las tablas de usuarios y órdenes con sus 
+     datos iniciales).
 
-PASO 3: Iniciar el servidor de desarrollo local
-Una vez finalizada la instalación de los paquetes, inicie el entorno de ejecución
-con Vite ejecutando:
+2. CONFIGURACIÓN Y EJECUCIÓN DEL BACKEND:
+   - Abre una terminal en la carpeta del servidor (backend).
+   - Instala las dependencias necesarias ejecutando:
+     npm install
+   - Inicia el servidor backend ejecutando:
+     node index.js
+   - El servidor correrá por defecto en: http://localhost:5000
 
-    npm run dev
+3. CONFIGURACIÓN Y EJECUCIÓN DEL FRONTEND:
+   - Abre una nueva terminal en la carpeta del cliente (frontend).
+   - Instala las dependencias ejecutando:
+     npm install
+   - Inicia el entorno de desarrollo ejecutando:
+     npm run dev
+   - Abre en tu navegador el enlace local generado por Vite (ej: http://localhost:5173).
 
-PASO 4: Abrir la aplicación en el navegador
-La consola mostrará una URL local (por defecto http://localhost:5173/). Abra dicha
-dirección en su navegador web preferido.
-
-
---------------------------------------------------------------------------------
-3. CREDENCIALES DE PRUEBA PARA EL MODAL DE LOGIN Y RUTAS PRIVADAS (FASE I)
---------------------------------------------------------------------------------
-Para verificar la protección de rutas privadas y desplegar el "Menú de Rutas
-Privadas" en la barra de navegación superior fija:
-
-1. Haga clic en el botón dorado "Login (Admin | 1234)" ubicado en la esquina
-   superior derecha de la barra de navegación fija.
-2. En la ventana Modal de Bootstrap ingrese:
-   - Login (Usuario): Admin
-   - Passwd (Contraseña): 1234
-   (También puede pulsar el botón "Autocompletar Admin | 1234").
-3. Haga clic en "Verificar y Desplegar Rutas Privadas".
-4. Inmediatamente aparecerá en la barra de menús el desplegable:
-   "Menú Rutas Privadas", desde el cual podrá acceder a:
-   - /caja-personalizada : Configurador Interactivo 3D/2D de Cajas de Bombones
-   - /carrito-despacho   : Carrito de Compras Interactivo (IVA 19%, Envío, Cupones)
-   - /panel-admin        : Panel Administrativo de Órdenes e Inventario
-
-* NOTA SOBRE CUPONES PROMOCIONALES EN EL CARRITO:
-  Puede utilizar cualquiera de los siguientes códigos en el carrito de compras:
-  - CHOCO15 (15% de descuento)
-  - DULCE20 (20% de descuento)
-  - UIS25   (25% de descuento)
-================================================================================
+------------------------------------------------------------------------
+5. MÓDULOS Y FUNCIONALIDADES PRINCIPALES (RÚBRICA FASE II)
+------------------------------------------------------------------------
+- [x] Estructura modular limpia separando Cliente y Servidor.
+- [x] Conexión real a base de datos relacional MySQL (XAMPP).
+- [x] Autenticación de usuarios y control de acceso basado en roles (RBAC).
+- [x] CRUD completo de gestión de cuentas de usuario desde el panel admin.
+- [x] Registro, consulta y eliminación de órdenes de compra conectadas a la BD.
+- [x] Servidor de contenido estático para recursos visuales y galería.
+- [x] Integración de Inteligencia Artificial (ChocoBot).
+========================================================================
