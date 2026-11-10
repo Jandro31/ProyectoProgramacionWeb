@@ -47,7 +47,7 @@ PASO A PASO PARA LEVANTAR EL PROYECTO:
    - Abre tu navegador y accede a phpMyAdmin: http://localhost/phpmyadmin/
    - Crea una base de datos nueva con el nombre exacto: chocoartisan
    - Selecciona la base de datos creada, ve a la pestaña "Importar", selecciona 
-     el archivo de respaldo proporcionado (`chocoartisan.sql`) ubicado en la 
+     el archivo de respaldo proporcionado (`choco_artisan_db.sql`) ubicado en la 
      raíz del proyecto o carpeta de respaldos, y haz clic en "Continuar". 
      (Esto montará automáticamente las tablas de usuarios y órdenes con sus 
      datos iniciales).
